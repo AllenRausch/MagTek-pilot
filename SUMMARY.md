@@ -1,6 +1,6 @@
 # Table of contents
 
-* [MagTek GotBooks Pilot](README.md)
+* [MagTek GitBooks Pilot](README.md)
 * [docs](docs/README.md)
   * [MagTek Docs](docs/index.md)
   * [ServiceStatus](docs/servicestatus/README.md)
