@@ -1,0 +1,2 @@
+# MagneSafe IntelliHead
+
