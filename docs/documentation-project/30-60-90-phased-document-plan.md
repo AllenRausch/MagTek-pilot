@@ -174,16 +174,16 @@ Finalize all strategic plans and establish the foundation for the pilot launch i
 * Develop training materials and rollout plan for the pilot group of contributors.
 * Finalize the setup and configuration of the approved tool in preparation for the pilot launch.
 
-### Support Site Integration Strategy
+### Support Site Integration Strategy (DC-28)
 
 * In collaboration with Marketing, draft a technical and editorial plan for connecting the new knowledge base to the public-facing support site.
 
-### Analytics & Success Metrics Framework
+### Analytics & Success Metrics Framework (DC-29)(DC-30)
 
 * Collaborate with marketing to define and establish baseline measurements for key performance indicators (KPIs) such as page views, search success rates, “time-to-find” reduction, document satisfaction scores, and support ticket deflection.
 * Establish secondary set of internal efficiency KPIs to measure progress and success of unified document systems such as production velocity, review cycle time, system uptime, contributor adoption rate, and migration progress.
 
-### Major Deliverable: Programmer’s Manual Taxonomy & Migration Plan
+### Major Deliverable: Programmer’s Manual Taxonomy & Migration Plan (DC-31)
 
 * Break down the monolithic Word document into logical, modular information architecture. Create a phased plan for migrating its content. This plan will prioritize sections based on stakeholder input and include an effort estimate.
 
