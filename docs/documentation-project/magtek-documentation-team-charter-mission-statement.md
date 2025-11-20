@@ -34,7 +34,7 @@ This charter establishes the framework for the Documentation Modernization Proje
 {% step %}
 ### Deploy a Unified Knowledge Platform
 
-Success Metric: Successful pilot launch and full migration from the legacy Word document ecosystem.
+Success Metric: Successful pilot launch and full migration from the legacy document ecosystem.
 {% endstep %}
 
 {% step %}
