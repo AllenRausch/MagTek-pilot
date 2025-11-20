@@ -7,9 +7,9 @@ This 90-day plan establishes the foundation for transforming MagTek's documentat
 * **The Problem:** Critical information is difficult to find, essential documentation is prohibitively hard to update, and a fragmented system hinders both internal productivity and customer support effectiveness.&#x20;
 * **The Solution:** A phased approach that prioritizes stakeholder alignment, data-driven tool selection, and careful pilot planning before full-scale implementation.
 * **Timeline:**
-* **Days 1-30:** Complete discovery, build consensus on problems and strategic direction
-* **Days 31-60:** Evaluate solutions, secure stakeholder buy-in and tool approval
-* **Days 61-90:** Finalize pilot plans and establish foundation for Q2 launch
+  * **Days 1-30:** Complete discovery, build consensus on problems and strategic direction
+  * **Days 31-60:** Evaluate solutions, secure stakeholder buy-in and tool approval
+  * **Days 61-90:** Finalize pilot plans and establish foundation for Q2 launch
 
 **Key Deliverables:**
 
