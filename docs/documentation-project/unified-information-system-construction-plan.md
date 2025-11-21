@@ -115,7 +115,7 @@ Complete stakeholder discovery, establish project foundation, and build consensu
 
 ### Tool Evaluation Criteria & Pilot Setup [(DC-6)](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-6)
 
-* Define [selection criteria](unified-information-system-platform-evaluation.md) for front-end tools. [(DC-8)](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-8)
+* Define [selection criteria](unified-information-system-platform-evaluation-criteria-definition.md) for front-end tools. [(DC-8)](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-8)
 * Create five pilot repositories on GitHub and establish basic published sites using GitBook, GitHub Pages. MKDocs, and Docusaurus for initial evaluation. ([DC-7](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-7), [DC-10](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-10), [DC-9](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-9), [DC-12](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-12), [DC-11](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-11))
 
 ### Major Deliverables
