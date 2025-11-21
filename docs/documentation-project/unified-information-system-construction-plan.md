@@ -27,7 +27,7 @@ This plan outlines a comprehensive, three-month strategy to dismantle these lega
 
 ### Key Goals
 
-This document is structured around three progressive phases: **Discover, Evaluate, and Plan**. Each phase—30, 60, and 90 days—has an overarching theme and a set of concrete, measurable goals. The following sections detail the key projects and deliverables for each phase, designed to build momentum, demonstrate value, and establish a sustainable model for long-term knowledge management.
+This document is structured around three progressive phases: **Discover, Evaluate, and Plan**. Each phase has an overarching theme and a set of concrete, measurable goals. The following sections detail the key projects and deliverables for each phase, designed to build momentum, demonstrate value, and establish a sustainable model for long-term knowledge management.
 
 **Key Goals**
 
