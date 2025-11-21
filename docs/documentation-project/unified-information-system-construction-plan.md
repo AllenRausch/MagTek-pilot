@@ -57,7 +57,7 @@ _Note: This plan is designed to be a collaborative and iterative process. Timeli
 
 Complete stakeholder discovery, establish project foundation, and build consensus on the nature and scope of the problem and the strategic direction of the solution
 
-### Project & Team Integration
+### Project & Team Integration&#x20;
 
 * Introduce Documentation to all relevant stakeholders and discuss the nature of the Web-based documentation project. Relevant stakeholders:
   * Executive team (Andy, Paul, Nedal)
@@ -74,7 +74,7 @@ Complete stakeholder discovery, establish project foundation, and build consensu
   * Project management bi-weekly Kanban/Jira sync
   * Twice weekly (Monday and Wednesday) email status reports
 
-### Comprehensive Stakeholder Discovery (DC-1)
+### Comprehensive Stakeholder Discovery [(DC-1)](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-1)
 
 * Conduct individual or small group meetings with all stakeholders to map current information ecosystem structure and identify pain points, problems, and opportunities for improvement a new system could enable. Prime participants with email questionnaire to gather information for follow-up in meetings.&#x20;
 * Meetings and discussion points:
@@ -86,7 +86,7 @@ Complete stakeholder discovery, establish project foundation, and build consensu
   * Support Management: Information access for support personnel, workflow, audience discussion, missing documentation types (Help documents, troubleshooting docs).
   * Firmware Team: Individual meetings with engineers to discuss workflow, information access and retrieval, personal notes. Bottlenecks, and major personal pain points.
 
-### Systems Access & Project Infrastructure Setup (DC-3)
+### Systems Access & Project Infrastructure Setup [(DC-3)](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-3)
 
 * Secure Documentation access to all relevant systems and setup necessary production and tracking tools:
   * Loop
@@ -101,7 +101,7 @@ Complete stakeholder discovery, establish project foundation, and build consensu
     * MKDocs
     * Sphinx
 
-### Current Content & Tool Audit (DC-4)
+### Current Content & Tool Audit [(DC-4)](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-4)
 
 * Perform a high-level audit of key documentation and current publishing tools to assess the scale and scope of problem as well as document typology. Review targets include:
   * Programmer’s Manual Word document
@@ -111,17 +111,17 @@ Complete stakeholder discovery, establish project foundation, and build consensu
   * External Support Site
   * Emails
   * Personal notes
-* Defined Content Types & Audience Matrix Draft (DC-5)
+* Defined Content Types & Audience Matrix Draft [(DC-5)](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-5)
 
-### Tool Evaluation Criteria & Pilot Setup (DC-6)
+### Tool Evaluation Criteria & Pilot Setup [(DC-6)](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-6)
 
-* Define [selection criteria](unified-information-system-platform-evaluation.md) for front-end tools. (DC-8)
-* Create five pilot repositories on GitHub and establish basic published sites using GitBook, GitHub Pages. MKDocs, and Docusaurus for initial evaluation. (DC-7, DC-10, DC-9, DC-12, DC-11)
+* Define [selection criteria](unified-information-system-platform-evaluation.md) for front-end tools. [(DC-8)](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-8)
+* Create five pilot repositories on GitHub and establish basic published sites using GitBook, GitHub Pages. MKDocs, and Docusaurus for initial evaluation. ([DC-7](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-7), [DC-10](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-10), [DC-9](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-9), [DC-12](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-12), [DC-11](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-11))
 
 ### Major Deliverables
 
-* **Unified Informartion System Plan (This Document) (DC-13):** Initial strategic roadmap & tactical implementation plan for leadership review.
-* **Discovery Report (DC-14):** A comprehensive synthesis of findings that:
+* **Unified Informartion System Construction Plan (This Document)** [**(DC-13)**](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-13)**:** Initial strategic roadmap & tactical implementation plan for leadership review.
+* **Discovery Report** [**(DC-14)**](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-14)**:** A comprehensive synthesis of findings that:
   * Documents current pain points with quantified impact where possible
   * Maps the existing information stakeholder ecosystem with stakeholder workflows
     * **For Support:** End reliance on tribal knowledge; access internal troubleshooting guides.
@@ -130,9 +130,9 @@ Complete stakeholder discovery, establish project foundation, and build consensu
   * Presents the strategic case for modernization
   * Outlines the vision for a unified information system
   * Identifies quick wins and long-term opportunities
-* **Documentation Team Charter/Mission Statement Draft (DC-15)**
+* **Documentation Team Charter/Mission Statement Draft** [**(DC-15)**](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-15)
 
-### Risk Identification & Mitigation Planning (DC-16)
+### Risk Identification & Mitigation Planning [(DC-16)](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-16)
 
 * Identify potential blockers to adoption (technical constraints, resource limitation, personnel skill issues, change resistance).
 * Document dependencies on external teams or vendors (enterprise-level tool accounts, employee tool costs, consultants).
@@ -144,24 +144,24 @@ Complete stakeholder discovery, establish project foundation, and build consensu
 
 Socialize findings among stakeholders, present solution options, and gather cross-functional feedback to build buy-in.
 
-### Tool & Tech Stack Recommendation & Justification Draft (DC-17)
+### Tool & Tech Stack Recommendation & Justification Draft [(DC-17)](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-17)
 
 * Create a formal document comparing pilot tools against defined criteria, with a clear, data-backed draft recommendation for the primary knowledge base platform.
 * Recommendation to include back & front-end documentation systems including needed integration with customer-facing support site.
 * IT/Security compliance review and hosting strategy
 
-### Stakeholder Education & Feedback Sessions (DC-18)
+### Stakeholder Education & Feedback Sessions [(DC-18)](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-18)
 
 * Hold meetings with key teams (Engineering, Management, Marketing) to discuss the shortlisted tools, explain the rationale, and collect feedback and concerns.
 * Identify initial Change Champions and early adopters from Engineering/Support/Marketing to co-design the pilot.
 
-### Contribution Workflow & Governance Model (DC-20)
+### Contribution Workflow & Governance Model [(DC-20)](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-20)
 
 * Design & document a proposed workflow for creating, reviewing, and publishing content, including roles and responsibilities for writers, SMEs, and approvers. Processes may be different for different content types.
 * Includes proposal for propose a **Documentation Council** with reps from Engineering, PM, Support, and Marketing to prioritize content and resolve conflicts.
   * Develop a Content Prioritization Framework with Documentation Council and leadership to ensure we're migrating the most valuable content first, not just the easiest.
 
-### Major Deliverable: **Final Tool & Tech Stack Approval Package (DC-21)**
+### Major Deliverable: **Final Tool & Tech Stack Approval Package** [**(DC-21)**](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-21)
 
 * Comparative analysis of evaluated platforms against selected criteria
 * Total cost of ownership projection
@@ -175,27 +175,27 @@ Socialize findings among stakeholders, present solution options, and gather cros
 
 Finalize all strategic plans and establish the foundation for the pilot launch in the next quarter.
 
-### Pilot Project Planning & Team Onboarding (DC-22)
+### Pilot Project Planning & Team Onboarding [(DC-22)](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-22)
 
 * Select a small, high-impact documentation set for the first migration (Dyna product, oDynamo update, Top 5 support issues).
 * Develop training materials and rollout plan for the pilot group of contributors.
 * Finalize the setup and configuration of the approved tool in preparation for the pilot launch.
 
-### Support Site Integration Strategy (DC-28)
+### Support Site Integration Strategy [(DC-28)](https://magensa.atlassian.net/jira/software/projects/DC/list?direction=ASC\&selectedIssue=DC-28\&sortBy=key)
 
 * In collaboration with Marketing, draft a technical and editorial plan for connecting the new knowledge base to the public-facing support site.
 * Define permission models and content reuse strategy to ensure Support has access to internal troubleshooting guides while keeping proprietary information secure.
 
-### Analytics & Success Metrics Framework (DC-29)(DC-30)
+### Analytics & Success Metrics Framework[ (DC-29)](https://magensa.atlassian.net/jira/software/projects/DC/list?direction=ASC\&selectedIssue=DC-29\&sortBy=key)[(DC-30)](https://magensa.atlassian.net/jira/software/projects/DC/list?direction=ASC\&selectedIssue=DC-30\&sortBy=key)
 
 * Collaborate with marketing to define and establish baseline measurements for key performance indicators (KPIs) such as page views, search success rates, “time-to-find” reduction, document satisfaction scores, and support ticket deflection.
 * Establish secondary set of internal efficiency KPIs to measure progress and success of unified document systems such as production velocity, review cycle time, system uptime, contributor adoption rate, and migration progress.
 
-### Major Deliverable: Programmer’s Manual Taxonomy & Migration Plan (DC-31)
+### Major Deliverable: Programmer’s Manual Taxonomy & Migration Plan [(DC-31)](https://magensa.atlassian.net/jira/software/projects/DC/list?direction=ASC\&selectedIssue=DC-31\&sortBy=key)
 
 * Break down the monolithic Word document into logical, modular information architecture. Create a phased plan for migrating its content. This plan will prioritize sections based on stakeholder input and include an effort estimate.
 
-### Major Deliverable: Phases 4-6 Roadmap (DC-19)
+### Major Deliverable: Phases 4-6 Roadmap [(DC-19)](https://magensa.atlassian.net/jira/software/projects/DC/list?direction=ASC\&selectedIssue=DC-19\&sortBy=key)
 
 * A document similar to this plan that provides a concrete roadmap for the next quarter, detailing the pilot implementation, content migration execution, team training rollout, governance plan, finalized budget and resource request for Phases 4-6, and the transition from pilot to full-scale implementation.
 
