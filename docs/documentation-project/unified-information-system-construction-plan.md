@@ -1,15 +1,15 @@
-# 30 60 90 - Unified Document System Construction Plan
+# Unified Information System Construction Plan
 
 ## Executive Summary
 
-This 90-day plan establishes the foundation for transforming MagTek's documentation infrastructure from a fragmented, difficult-to-maintain system into a modern, unified knowledge platform.
+This plan establishes the foundation for transforming MagTek's documentation infrastructure from a fragmented, difficult-to-maintain system into a modern, unified knowledge platform.
 
 * **The Problem:** Critical information is difficult to find, essential documentation is prohibitively hard to update, and a fragmented system hinders both internal productivity and customer support effectiveness.&#x20;
 * **The Solution:** A phased approach that prioritizes stakeholder alignment, data-driven tool selection, and careful pilot planning before full-scale implementation.
 * **Timeline:**
-  * **Days 1-30:** Complete discovery, build consensus on problems and strategic direction
-  * **Days 31-60:** Evaluate solutions, secure stakeholder buy-in and tool approval
-  * **Days 61-90:** Finalize pilot plans and establish foundation for Q2 launch
+  * **Phase 1:** Complete discovery, build consensus on problems and strategic direction
+  * **Phase 2:** Evaluate solutions, secure stakeholder buy-in and tool approval
+  * **Phase 3:** Finalize pilot plans and establish foundation for Q2 launch
 
 **Key Deliverables:**
 
@@ -45,13 +45,13 @@ This transition will be guided by the following principles:
 * **Iterative implementation:** Pilot-test-refine approach to minimize disruption
 * **Transparency:** Regular communication and documentation of decision-makes processes
 * **Measurable outcomes:** All recommendations backed by data and clear success criteria
-* **Sustainability:** Systems designed for long-term maintainability and scalability, not just quick fixes
+* **Sustainability:** Systems designed for long-term maintainability and scalability including AI inclusion, not just quick fixes
 
-_Note: A dedicated Jira project and Kanban board for documentation tasks have been established at https://magensa.atlassian.net/jira/software/projects/DC/list. Projects in this document are listed by both their functional names and Jira Ticket numbers._
+_Note: A dedicated Jira project and Kanban board for documentation tasks have been established at https://magensa.atlassian.net/jira/software/projects/DC/list. Projects in this document are listed by both their functional names and Jira Ticket (DC=Documentation) numbers._
 
 _Note: This plan is designed to be a collaborative and iterative process. Timelines for feedback and decisions are estimates and may be adjusted to accommodate stakeholder availability and ensure full organizational alignment._
 
-## Phase 1: Days 1-30 – Discover & Align
+## Phase 1: Discover & Align
 
 ### Phase 1 Theme
 
@@ -76,8 +76,9 @@ Complete stakeholder discovery, establish project foundation, and build consensu
 
 ### Comprehensive Stakeholder Discovery (DC-1)
 
-* Conduct individual or small group meetings with all stakeholders to map current information ecosystem structure and identify pain points, problems, and opportunities for improvement a new system could enable. Prime participants with email questionnaire to gather information for follow-up in meetings. Meetings and discussion points:
-  * Executive Team (Andy & Paul): Agreement on using GitHub as back-end, discuss front-end tools and get briefing on corporate priorities for system that will inform overarching strategy.
+* Conduct individual or small group meetings with all stakeholders to map current information ecosystem structure and identify pain points, problems, and opportunities for improvement a new system could enable. Prime participants with email questionnaire to gather information for follow-up in meetings.&#x20;
+* Meetings and discussion points:
+  * Executive Team (Andy & Paul): Using GitHub as back-end, discuss front-end tools and get briefing on corporate priorities for system that will inform overarching strategy.
   * Executive Team (Nedal): Tactical discussion on needed system components. Future vision discussion on AI integration into new system.
   * Team Leadership: Discussion on team workflows, content production, editing, and approvals, systemic bottlenecks.
   * Project Management Team: Documentation production & release process
@@ -90,9 +91,10 @@ Complete stakeholder discovery, establish project foundation, and build consensu
 * Secure Documentation access to all relevant systems and setup necessary production and tracking tools:
   * Loop
   * Jira: Creation of dedicated documentation project page and tickets
+  * SharePoint
   * Agile: Temporary Documentation document repository
   * GitHub: Documentation account
-  * Short-term tool evaluation accounts
+  * Short-term tool evaluation accounts (Cost associated):
     * Pages
     * GitBook
     * Docusaurus
@@ -118,7 +120,7 @@ Complete stakeholder discovery, establish project foundation, and build consensu
 
 ### Major Deliverables
 
-* **30-60-90 Plan (This Document) (DC-13):** Initial strategic roadmap & tactical implementation plan for leadership review.
+* **Unified Informartion System Plan (This Document) (DC-13):** Initial strategic roadmap & tactical implementation plan for leadership review.
 * **Discovery Report (DC-14):** A comprehensive synthesis of findings that:
   * Documents current pain points with quantified impact where possible
   * Maps the existing information stakeholder ecosystem with stakeholder workflows
@@ -132,11 +134,11 @@ Complete stakeholder discovery, establish project foundation, and build consensu
 
 ### Risk Identification & Mitigation Planning (DC-16)
 
-* Identify potential blockers to adoption (technical constraints, resource limitation, personnel skill issues, change resistance
+* Identify potential blockers to adoption (technical constraints, resource limitation, personnel skill issues, change resistance).
 * Document dependencies on external teams or vendors (enterprise-level tool accounts, employee tool costs, consultants).
 * Create communication strategy for relaying status communication to and managing stakeholder expectations for the project.
 
-## Phase 2: Days 31-60 – Evaluate & Socialize
+## Phase 2: Evaluate & Socialize
 
 ### Phase 2 Theme
 
@@ -167,7 +169,7 @@ Socialize findings among stakeholders, present solution options, and gather cros
 * Risk assessment and mitigation strategies
 * Formal sign-off documentation from leadership and key stakeholders
 
-## Phase 3: Days 61-90 – Planning & Pilot Prep
+## Phase 3: Planning & Pilot Prep
 
 ### Phase 3 Theme
 
@@ -195,7 +197,7 @@ Finalize all strategic plans and establish the foundation for the pilot launch i
 
 ### Major Deliverable: Phases 4-6 Roadmap (DC-19)
 
-* A document similar to this 30-60-90 plan that provides a concrete roadmap for the next quarter (Days 91-180), detailing the pilot launch, content migration execution, team training rollout, governance plan, finalized budget and resource request for Phases 4-6, and the transition from pilot to full-scale implementation.
+* A document similar to this plan that provides a concrete roadmap for the next quarter, detailing the pilot implementation, content migration execution, team training rollout, governance plan, finalized budget and resource request for Phases 4-6, and the transition from pilot to full-scale implementation.
 
 ## Appendix
 
