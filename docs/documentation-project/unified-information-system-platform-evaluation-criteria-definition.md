@@ -1,4 +1,4 @@
-# Unified Information System Platform Evaluation
+# Unified Information System Platform Evaluation - Criteria Definition
 
 ## Objective
 
@@ -46,6 +46,8 @@ These criteria are vital for maintaining the system over time and ensuring it gr
 ***
 
 ## Tertiary Considerations: Important, but not Deal-breakers
+
+These criteria are important but can be worked around with addition of third-party tools or services.
 
 | _**Criteria**_             | _**Why it’s important**_                                                                                                                                                                                      | _**Relation to MagTek**_                                                                                                                                                                                  |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
