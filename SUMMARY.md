@@ -156,3 +156,4 @@
   * [Documentation Project](docs/documentation-project/README.md)
     * [Unified Information System Construction Plan](docs/documentation-project/unified-information-system-construction-plan.md)
     * [MagTek Documentation Team Charter/Mission Statement](docs/documentation-project/magtek-documentation-team-charter-mission-statement.md)
+    * [Unified Information System Platform Evaluation](docs/documentation-project/unified-information-system-platform-evaluation.md)
