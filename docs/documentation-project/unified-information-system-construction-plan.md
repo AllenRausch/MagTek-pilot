@@ -71,7 +71,7 @@ Complete stakeholder discovery, establish project foundation, and build consensu
   * Firmware Team Sync
   * Hardware Team Sync
   * Supervisory bi-weekly 1-on-1 sync (Dave Xu)
-  * Project management bi-weekly Kanban/Jira sync
+  * Project management bi-weekly Kanban/Jira sync (Parastou)
   * Twice weekly (Monday and Wednesday) email status reports
 
 ### Comprehensive Stakeholder Discovery [(DC-1)](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-1)
