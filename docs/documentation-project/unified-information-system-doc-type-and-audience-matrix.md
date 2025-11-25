@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-The current state of MagTek's documentation is more than an inconvenience — it is a critical business risk that directly impacts engineering velocity, customer satisfaction, and regulatory compliance. This discovery confirms that our fragmented information ecosystem, centered around a monolithic and unusable Word document, forces teams to rely on inefficient "tribal knowledge."
+The current state of MagTek's documentation is more than an inconvenience — it is a critical business risk that directly impacts engineering velocity, customer satisfaction, and regulatory compliance. This discovery confirms that our fragmented information ecosystem, centered around a monolithic and unusable Word document, various document repositories, and personal notes, forces teams to rely on inefficient "tribal knowledge."
 
 This analysis synthesizes findings across the organization and presents a strategic taxonomic blueprint for a modern, unified knowledge platform. The system is designed not merely to store documents, but to actively connect the right information to the right people, transforming documentation from a passive artifact into a dynamic asset that accelerates every part of the business.
 
@@ -18,7 +18,7 @@ For external documentation, the integrator (the person building MagTek products 
 {% step %}
 ### Internal Support is a Primary Consumer
 
-Many external documents are also vital for the internal support team, validating the need for a unified system where they can access this information.
+Many external and internal documents are vital for the internal support team, validating the need for a unified system where they can access this information.
 {% endstep %}
 
 {% step %}
@@ -194,9 +194,3 @@ Internal Audiences
 * HR: Human resources department
 * Magensa Service Team: Internal team supporting the Magensa service platform
 
-***
-
-If you'd like, I can:
-
-* Convert any specific document type above into a template for the UIS (page layout, metadata fields, review workflow suggestions).
-* Produce migration prioritization recommendations based on criteria (impact, frequency of use, compliance risk).
