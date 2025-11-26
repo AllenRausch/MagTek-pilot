@@ -1,5 +1,7 @@
 # Unified Information System Document Approval Dashboard Prototype
 
+Please use slider at bottom of table to see deadline and next steps.
+
 | Document                                         | Jira                                                                                      | GitBook Link                                                                                                                                                                    | Status           | Current Reviewer | Submitted | Deadline | Next Action       |
 | ------------------------------------------------ | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | --------- | -------- | ----------------- |
 | Construction Plan                                | [DC-13](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-13) | [Plan](https://app.gitbook.com/o/M1bZIjbUULXeTfuFxR7G/s/epT1Msehj1JP7B4RO5KT/docs/documentation-project/unified-information-system-construction-plan)                           | In Tier 1 Review | Dave/Nedal       | 11/20     | 12/1     | Awaiting feedback |
