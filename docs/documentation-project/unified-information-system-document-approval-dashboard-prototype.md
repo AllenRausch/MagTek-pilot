@@ -9,8 +9,3 @@
 | Document review Phase 1 Prototype Review process | [DC-33](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-33) | No GitBooks link yet                                                                                                                                                            | Drafting         | Drafting         | 11/26     | 12/3     | Awaiting Feedback |
 | Document Review Dashboard                        | [DC-33](https://magensa.atlassian.net/jira/software/projects/DC/list?selectedIssue=DC-33) |                                                                                                                                                                                 | Complete         | Complete         | N/A       | N/A      | N/A               |
 
-If you'd like, I can:
-
-* Convert each row into a GitBook card linking directly to the GitBook pages and Jira tickets.
-* Add a visual status column (icons or badges) for easier scanning.
-* Split items into sections by review tier (Tier 1, Tier 2, Drafting, Complete).
