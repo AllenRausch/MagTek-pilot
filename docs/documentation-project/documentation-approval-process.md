@@ -4,7 +4,7 @@
 
 ### Purpose
 
-This document establishes a standardized approval process for documentation produced by the Documentation team during Phase 2 of the Unified Information System construction project.
+This document establishes a standardized approval process for documentation produced by the Documentation team during Phase 1 of the Unified Information System construction project.
 
 ### Why We Need a Formal Approval Process
 
@@ -89,7 +89,7 @@ Rollout: Stakeholder Distribution
 ### Tier 2 Reviewers: Executive Leadership (Paul, Andy)
 
 * Primary Approver: Paul (COO) - Documentation project executive sponsor
-* Strategic Oversight: Andy (CEO) - CC'd on all Tier 3 submissions
+* Strategic Oversight: Andy (CEO) - CC'd on all Tier 2 submissions
 
 The COO serves as primary decision-maker for documentation strategy and implementation. The CEO maintains visibility and may request involvement in any decision.
 
