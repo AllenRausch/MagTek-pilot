@@ -159,3 +159,4 @@
     * [Unified Information System Platform Evaluation - Criteria Definition](docs/documentation-project/unified-information-system-platform-evaluation-criteria-definition.md)
     * [Unified Information System Doc Type & Audience Matrix](docs/documentation-project/unified-information-system-doc-type-and-audience-matrix.md)
     * [Unified Information System Document Approval Dashboard Prototype](docs/documentation-project/unified-information-system-document-approval-dashboard-prototype.md)
+    * [Documentation Approval Process](docs/documentation-project/documentation-approval-process.md)
