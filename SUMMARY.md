@@ -160,3 +160,4 @@
     * [Unified Information System Doc Type & Audience Matrix](docs/documentation-project/unified-information-system-doc-type-and-audience-matrix.md)
     * [Unified Information System Document Approval Dashboard Prototype](docs/documentation-project/unified-information-system-document-approval-dashboard-prototype.md)
     * [Documentation Approval Process](docs/documentation-project/documentation-approval-process.md)
+    * [Unified Information System Platform Evaluation](docs/documentation-project/unified-information-system-platform-evaluation.md)
