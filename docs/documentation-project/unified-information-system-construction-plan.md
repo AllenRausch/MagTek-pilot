@@ -9,7 +9,7 @@ This plan establishes the foundation for transforming MagTek's documentation inf
 * **Timeline:**
   * **Phase 1 (Ends Dec. 19, 2025):** Complete discovery, build consensus on problems and strategic direction
   * **Phase 2 (Ends Jan. 30, 2025):** Evaluate solutions, secure stakeholder buy-in and tool approval
-  * **Phase 3 (Ends Feb. 27, 2025):** Finalize pilot plans and establish foundation for Q2 launch
+  * **Phase 3 (Ends Feb. 27, 2025):** Finalize pilot plans and establish foundation for Q2 pilot launch
 
 **Key Deliverables:**
 
