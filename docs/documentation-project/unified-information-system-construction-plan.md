@@ -43,7 +43,7 @@ This transition will be guided by the following principles:
 
 * **Stakeholder-centered design:** Solutions will be shaped by user needs, not imposed top-down
 * **Iterative implementation:** Pilot-test-refine approach to minimize disruption
-* **Transparency:** Regular communication and documentation of decision-makes processes
+* **Transparency:** Regular communication and documentation of decision-making processes
 * **Measurable outcomes:** All recommendations backed by data and clear success criteria
 * **Sustainability:** Systems designed for long-term maintainability and scalability including AI inclusion, not just quick fixes
 
