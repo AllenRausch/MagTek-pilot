@@ -2,9 +2,9 @@
 
 ## Executive Summary
 
-After a comprehensive evaluation of five documentation platforms against the criteria agreed upon by our stakeholders, GitBook is by far the best recommendation for MagTek's Unified Information System. It is the only platform that successfully bridges the gap between our technical and non-technical teams while meeting our strategic GitHub integration mandate.
+After a comprehensive evaluation of five documentation platforms against the criteria agreed upon by our stakeholders, GitBook is by far the best recommendation for MagTek's Unified Information System. It is the only platform that successfully bridges the gap between our technical and non-technical teams while leveraging the exceptional capabilities of a GitHub backend.
 
-GitBook excels in the Primary Considerations that are essential for adoption, particularly Ease of Use and Built-in Editorial Tools. It transforms documentation from a programmer-centric task into a company-wide collaborative process, directly addressing the "tribal knowledge" problem identified in our audience analysis. While other tools are powerful in specific technical niches, they would fail the "Lowest Tech User" test and hinder cross-functional adoption.
+GitBook excels in the Primary Considerations that are essential for adoption, particularly Ease of Use and Built-in Editorial Tools. It transforms documentation from a programmer-centric task into a company-wide collaborative process, directly addressing the "tribal knowledge" problem identified in our audience analysis. While other tools are powerful in specific technical niches, they would fail the "Lowest Tech User" test and hinder cross-functional adoption. With GitBooks acting as a front-end for GitBooks we gain the ease of use for non-technical users while retaining the ability to work directly in GitHub when we need to.
 
 {% hint style="info" %}
 Key Recommendation: Implement GitBook Premium Plan at $2,988/year to serve as the foundation for a sustainable, collaborative documentation ecosystem that can be effectively managed by our current technical writing team while empowering contributors across all departments.
@@ -68,14 +68,14 @@ This constraint is a realistic acknowledgment of our organizational priorities. 
 
 The following comparison illustrates the difference in technical demands between platforms:
 
-| Platform Administration | GitBook Skills                                                                        | MkDocs / Docusaurus Skills                                                                                |
-| ----------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| Initial Setup & Theming | Point-and-click configuration in a web UI; customization through visual theme editor. | Proficiency with YAML, CSS, potentially React/JavaScript, and CLI; custom theme development from scratch. |
-| Ongoing Maintenance     | Managed by GitBook (SaaS); updates automatic.                                         | Managing dependency updates, Node.js/Python compatibility, CI/CD maintenance, troubleshooting.            |
-| Adding New Features     | Built-in blocks and UI integrations; no coding required.                              | Writing custom plugins/scripts; requires developer involvement.                                           |
-| User Support & Training | Simple, intuitive; minimal training.                                                  | Teaching Git, Markdown, branch workflows, PRs — significant training.                                     |
-| Troubleshooting Issues  | Contact vendor support; most issues platform-side.                                    | Debugging build errors, dependency conflicts; requires technical expertise.                               |
-| Security & Updates      | Handled by GitBook; automatic patches.                                                | Manual security monitoring, dependency auditing, patching required.                                       |
+|  Critical Requirement                          | GitBook                                                                                                                  | GitHub Pages with Jekyll                                                                                                                        |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Contributor Onboarding for Non-Technical Users | Create account, click "Edit." Intuitive WYSIWYG editor. **Democratizes contribution.**                                   | Must learn basic Git, branch creation, and Pull Request workflow. High barrier to entry for Support, Marketing, PMs.                            |
+| Built-in Editorial & Review Workflow           | Native "Change Requests" with inline comments, @mentions, and approval workflows. **Purpose-built for content.**         | Review happens via GitHub Pull Requests—a code review tool. Intimidating and misaligned for document review.                                    |
+| Permissioning & Internal/External Hosting      | Granular, space-level permissions out-of-the-box. **Unified system** for internal and external docs in one platform.     | **Fundamental Limitation:** GitHub Pages sites are public. Hosting internal docs requires a separate, complex private server setup (not Pages). |
+| Setup, Theming & Maintenance                   | Point-and-click setup. Professional themes included. **Zero maintenance**—managed SaaS.                                  | Requires developer to set up Jekyll, configure theme, manage CI/CD (GitHub Actions). Ongoing maintenance for dependencies.                      |
+| Compliance & Audit Trail                       | Complete, visual audit trail of Change Requests. **SOC 2 certified.** Directly supports PCI evidence gathering.          | Git history provides a basic audit trail, but extracting a clear "who approved what and when" from PRs is manual.                               |
+| Total Cost of Ownership                        | **Predictable Cost:** Clear licensing fee, but **low operational overhead**. Frees developer time for core product work. | **High Hidden Cost:** Significant ongoing developer time for setup, maintenance, training, and support. Appears "free."                         |
 
 ### Sustainability Conclusion
 
@@ -163,19 +163,19 @@ Primary, Secondary, and Tertiary criteria were scored 1–10 (10 = Excellent). W
 
 #### Platform Scorecard — Primary Considerations
 
-| Evaluation Criteria                  | GitBook | GitHub Pages | MKDocs | Docusaurus | Sphinx |
-| ------------------------------------ | ------: | -----------: | -----: | ---------: | -----: |
-| Ease of Use & Contributor Experience |      10 |            3 |      4 |          2 |      2 |
-| Built-in Editorial & Collaboration   |      10 |            2 |      2 |          2 |      2 |
-| GitHub Integration                   |       9 |           10 |      8 |          8 |      7 |
-| Permissioning & Access Control       |      10 |            5 |      4 |          4 |      4 |
-| Compliance & Audit Trail             |      10 |            5 |      5 |          5 |      6 |
-| Content Findability & Search         |       9 |            5 |      7 |          8 |      7 |
-| Version Control & History            |       9 |           10 |     10 |         10 |     10 |
-| Content Reuse & Single-Sourcing      |       8 |            3 |      6 |          7 |      9 |
-| Multi-Format Export                  |       8 |            5 |      7 |          6 |     10 |
-| Total Cost of Ownership (TCO)        |       8 |           10 |      7 |          5 |      4 |
-| **Primary Weighted Score**           |  **91** |       **58** | **60** |     **57** | **61** |
+| Evaluation Criteria                  | GitBook |  Pages | MKDocs | Docusaurus | Sphinx |
+| ------------------------------------ | ------: | -----: | -----: | ---------: | -----: |
+| Ease of Use & Contributor Experience |      10 |      3 |      4 |          2 |      2 |
+| Built-in Editorial & Collaboration   |      10 |      2 |      2 |          2 |      2 |
+| GitHub Integration                   |       9 |     10 |      8 |          8 |      7 |
+| Permissioning & Access Control       |      10 |      5 |      4 |          4 |      4 |
+| Compliance & Audit Trail             |      10 |      5 |      5 |          5 |      6 |
+| Content Findability & Search         |       9 |      5 |      7 |          8 |      7 |
+| Version Control & History            |       9 |     10 |     10 |         10 |     10 |
+| Content Reuse & Single-Sourcing      |       8 |      3 |      6 |          7 |      9 |
+| Multi-Format Export                  |       8 |      5 |      7 |          6 |     10 |
+| Total Cost of Ownership (TCO)        |       8 |     10 |      7 |          5 |      4 |
+| **Primary Weighted Score**           |  **91** | **58** | **60** |     **57** | **61** |
 
 #### Secondary Considerations
 
@@ -220,14 +220,16 @@ Scoring Scale: 1–10 (10 = Excellent, 1 = Poor)
 
 This analysis evaluates direct and hidden internal costs to justify the investment against the status quo.
 
+**Note: This TCO is a preliminary estimate for a basic startup package designed for foundational document collaboration and pilot program experimentation. A full TCO analysis will be submitted with a final tech stack and integration plan.**&#x20;
+
 ### Direct & Upfront Costs
 
-| Cost Factor                  |                                                                                   GitBook (Recommended) |                     MkDocs / Docusaurus (Self-Hosted) | Notes & Justification                                                     |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------: | ----------------------------------------------------: | ------------------------------------------------------------------------- |
-| Platform Licensing           | **Premium Plan: $2,988/year** ($249/month). Start with **3 Premium seats** (Writer, Lead Engineer, PM). |                                      $0 (Open Source) | Enterprise tier (\~$6,000+/yr) is overkill; Premium covers feature needs. |
-| Hosting & Infrastructure     |                                                                                      $0 (SaaS included) |           \~$1,200–$2,400/yr (server + IT admin time) | Self-hosting consumes IT resources and budget.                            |
-| Initial Setup & Design       |                                                                  \~$500 (5–10 hrs internal UI designer) | \~$3,000–$5,000 (20–40 hrs dev time for custom theme) | GitBook visual tools reduce setup time and cost.                          |
-| **Total Year 1 Direct Cost** |                                                                                            **\~$3,488** |                                  **\~$4,200–$7,400+** |                                                                           |
+| Cost Factor                  |                                                                GitBook (Recommended) |                     MkDocs / Docusaurus (Self-Hosted) | Notes & Justification                                                     |
+| ---------------------------- | -----------------------------------------------------------------------------------: | ----------------------------------------------------: | ------------------------------------------------------------------------- |
+| Platform Licensing           | **Premium Plan: $2,988/year** ($249/month). Start with **1 Premium seats** (Writer). |                                      $0 (Open Source) | Enterprise tier (\~$6,000+/yr) is overkill; Premium covers feature needs. |
+| Hosting & Infrastructure     |                                                                   $0 (SaaS included) |           \~$1,200–$2,400/yr (server + IT admin time) | Self-hosting consumes IT resources and budget.                            |
+| Initial Setup & Design       |                                               \~$500 (5–10 hrs internal UI designer) | \~$3,000–$5,000 (20–40 hrs dev time for custom theme) | GitBook visual tools reduce setup time and cost.                          |
+| **Total Year 1 Direct Cost** |                                                                         **\~$3,488** |                                  **\~$4,200–$7,400+** |                                                                           |
 
 ### Hidden & Internal Operational Costs
 
