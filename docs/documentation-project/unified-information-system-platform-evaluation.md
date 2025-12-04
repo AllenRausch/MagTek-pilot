@@ -7,7 +7,7 @@ After a comprehensive evaluation of five documentation platforms against the cri
 GitBook excels in the Primary Considerations that are essential for adoption, particularly Ease of Use and Built-in Editorial Tools. It transforms documentation from a programmer-centric task into a company-wide collaborative process, directly addressing the "tribal knowledge" problem identified in our audience analysis. While other tools are powerful in specific technical niches, they would fail the "Lowest Tech User" test and hinder cross-functional adoption. With GitBook acting as a front-end for GitHub we gain the ease of use for non-technical users while retaining the ability to work directly in GitHub when we need to.
 
 {% hint style="info" %}
-Key Recommendation: Implement GitBook Premium Plan at $2,988/year to serve as the foundation for a sustainable, collaborative documentation ecosystem that can be effectively managed by our current technical writing team while empowering contributors across all departments.
+Key Recommendation: Implement GitBook Premium Plan at $6,012/year to serve as the foundation for a sustainable, collaborative documentation ecosystem that can be effectively managed by our current technical writing team while empowering contributors across all departments.
 {% endhint %}
 
 ***
@@ -224,12 +224,12 @@ This analysis evaluates direct and hidden internal costs to justify the investme
 
 ### Direct & Upfront Costs
 
-| Cost Factor                  |                                                                GitBook (Recommended) |                     MkDocs / Docusaurus (Self-Hosted) | Notes & Justification                                                     |
-| ---------------------------- | -----------------------------------------------------------------------------------: | ----------------------------------------------------: | ------------------------------------------------------------------------- |
-| Platform Licensing           | **Premium Plan: $2,988/year** ($249/month). Start with **1 Premium seats** (Writer). |                                      $0 (Open Source) | Enterprise tier (\~$6,000+/yr) is overkill; Premium covers feature needs. |
-| Hosting & Infrastructure     |                                                                   $0 (SaaS included) |           \~$1,200–$2,400/yr (server + IT admin time) | Self-hosting consumes IT resources and budget.                            |
-| Initial Setup & Design       |                                               \~$500 (5–10 hrs internal UI designer) | \~$3,000–$5,000 (20–40 hrs dev time for custom theme) | GitBook visual tools reduce setup time and cost.                          |
-| **Total Year 1 Direct Cost** |                                                                         **\~$3,488** |                                  **\~$4,200–$7,400+** |                                                                           |
+| Cost Factor                  |                                                                                                GitBook (Recommended) |                     MkDocs / Docusaurus (Self-Hosted) | Notes & Justification                                                     |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------: | ------------------------------------------------------------------------- |
+| Platform Licensing           | **Premium Plan: $2,988/year** ($249/month). Start with **21 Premium seats** **$3,024/yr** ($252/month Stakeholders). |                                      $0 (Open Source) | Enterprise tier (\~$6,000+/yr) is overkill; Premium covers feature needs. |
+| Hosting & Infrastructure     |                                                                                                   $0 (SaaS included) |           \~$1,200–$2,400/yr (server + IT admin time) | Self-hosting consumes IT resources and budget.                            |
+| Initial Setup & Design       |                                                                               \~$500 (5–10 hrs internal UI designer) | \~$3,000–$5,000 (20–40 hrs dev time for custom theme) | GitBook visual tools reduce setup time and cost.                          |
+| **Total Year 1 Direct Cost** |                                                                                                         **\~$3,488** |                                  **\~$4,200–$7,400+** |                                                                           |
 
 ### Hidden & Internal Operational Costs
 
