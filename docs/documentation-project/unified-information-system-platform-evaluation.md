@@ -242,9 +242,9 @@ Implementing GitBook is an investment that yields returns by eliminating legacy 
 
 ### TCO Conclusion
 
-While GitBook has a licensing fee (\~$3,000/year), its total cost of ownership is significantly lower than open-source alternatives when accounting for internal and hidden costs.
+While GitBook has a cost associated with it (\~$6,000/year), its total cost of ownership is significantly lower than open-source alternatives when accounting for internal and hidden costs.
 
-* GitBook provides: predictable, all-inclusive annual cost (\~$3,500) with minimal internal resource drain.
+* GitBook provides: predictable, all-inclusive annual cost (\~$6,000) with minimal internal resource drain.
 * MkDocs/Docusaurus incur: high, unpredictable internal costs (\~$8,000–$12,000/year) in developer time, training, hosting, and lost productivity.
 
 Net Annual Savings with GitBook: $4,500–$8,500 compared to "free" alternatives. Estimated ROI: 15:1 to 25:1 when considering efficiency gains.
