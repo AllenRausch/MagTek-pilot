@@ -323,7 +323,7 @@ Five platforms evaluated against defined criteria:
 * Docusaurus
 * Sphinx
 
-Follow links for GitBook R[ecommendation criteria](https://app.gitbook.com/o/M1bZIjbUULXeTfuFxR7G/s/epT1Msehj1JP7B4RO5KT/docs/documentation-project/unified-information-system-platform-evaluation-criteria-definition) and [Recommendation document](https://app.gitbook.com/o/M1bZIjbUULXeTfuFxR7G/s/epT1Msehj1JP7B4RO5KT/docs/documentation-project/unified-information-system-platform-evaluation-criteria-definition).
+Follow links for GitBook [Recommendation criteria](https://app.gitbook.com/o/M1bZIjbUULXeTfuFxR7G/s/epT1Msehj1JP7B4RO5KT/docs/documentation-project/unified-information-system-platform-evaluation-criteria-definition) and [Recommendation document](https://app.gitbook.com/o/M1bZIjbUULXeTfuFxR7G/s/epT1Msehj1JP7B4RO5KT/docs/documentation-project/unified-information-system-platform-evaluation-criteria-definition).
 
 ***
 
