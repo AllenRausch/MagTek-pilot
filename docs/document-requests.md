@@ -1,4 +1,4 @@
-# New & Change Document Requests
+# Document Requests
 
 🔧 How to Submit a Request (Step-by-Step)
 
