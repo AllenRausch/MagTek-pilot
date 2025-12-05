@@ -2,9 +2,10 @@
 
 How to Submit a Request (Step-by-Step)
 
-1. Copy This Template
-   1. Click the ... (More actions) menu in the top-right
-   2. Select "Duplicate".
+1. Copy The Template
+   1. Click on the Software Documentation Request Form below
+   2. Click the ... (More actions) menu in the top-right
+   3. Select "Duplicate".
 2. Rename & Fill
    1. Rename the duplicated page with a descriptive title (e.g., "API Integration Guide - New Doc Request").
    2. Fill out all relevant sections below.
