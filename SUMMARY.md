@@ -164,4 +164,3 @@
     * [Unified Information System Strategic Vision](docs/documentation-project/unified-information-system-strategic-vision.md)
   * [How to Submit a Document Request](docs/how-to-submit-a-document-request/README.md)
     * [Software Documentation Request Form](docs/how-to-submit-a-document-request/software-documentation-request-form.md)
-    * [Copy of Software Documentation Request Form](docs/how-to-submit-a-document-request/copy-of-software-documentation-request-form.md)
