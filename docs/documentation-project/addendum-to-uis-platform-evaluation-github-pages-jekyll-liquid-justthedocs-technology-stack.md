@@ -1,4 +1,4 @@
-# Addendum to UIS Platform Evaluation
+# Addendum to UIS Platform Evaluation – GitHub Pages/Jekyll/Liquid/JustTheDocs Technology Stack
 
 ## Executive Summary
 
@@ -37,8 +37,8 @@ While the initial tool recommendation analyzed five different tools (including G
 
 The most important strategic priority for the new UIS is collaboration and workflow. MagTek’s current information ecosystem suffers from siloing and a “tribal knowledge” culture. This is the primary point of failure for the Jekyll/Liquid/JustTheDocs model for our use case.
 
-* GitBook: Provides an intuitive, browser-based interface. Contributors from Marketing, Support, and Engineering can make suggestions via Change Requests, add inline comments, and receive notifications, all without leaving the platform or understanding version control.
-* Jekyll/Liquid/JustTheDocs Stack: Collaboration is entirely dependent on the Git workflow. Every change, from a typo fix to a new guide, requires:
+* **GitBook:** Provides an intuitive, browser-based interface. Contributors from Marketing, Support, and Engineering can make suggestions via Change Requests, add inline comments, and receive notifications, all without leaving the platform or understanding version control.
+* **Jekyll/Liquid/JustTheDocs Stack:** Collaboration is entirely dependent on the Git workflow. Every change, from a typo fix to a new guide, requires:
   * Cloning a repository.
   * Creating a feature branch.
   * Editing Markdown files in a code editor.
