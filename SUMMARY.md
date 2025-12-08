@@ -162,5 +162,6 @@
     * [Documentation Approval Process](docs/documentation-project/documentation-approval-process.md)
     * [Unified Information System Platform Evaluation](docs/documentation-project/unified-information-system-platform-evaluation.md)
     * [Unified Information System Strategic Vision](docs/documentation-project/unified-information-system-strategic-vision.md)
+    * [Addendum to UIS Platform Evaluation](docs/documentation-project/addendum-to-uis-platform-evaluation.md)
   * [How to Submit a Document Request](docs/how-to-submit-a-document-request/README.md)
     * [Software Documentation Request Form](docs/how-to-submit-a-document-request/software-documentation-request-form.md)
