@@ -6,7 +6,7 @@ This addendum addresses the executive request to evaluate GitHub Pages utilizing
 
 ## Proposed Technology Stack
 
-* **Jekyll:** An open-source static site generator that takes plain text files written in Markdown and HTML templates and it runs a build process to combine them into a complete, static website (a folder of ready-to-serve HTML, CSS, and JavaScript files).
+* **Jekyll:** An open-source static site generator that takes plain text files written in Markdown and HTML templates and runs a build process to combine them into a complete, static website (a folder of ready-to-serve HTML, CSS, and JavaScript files).
 * **Liquid:** The templating language that powers Jekyll. It allows developers to create reusable components (like a navigation header or a product card) and use simple programming tags to dynamically pull in content from Markdown files. For a non-programmer, editing Liquid templates is akin to editing software code; a single misplaced character can break the entire site build.
 * **JustTheDocs:** A pre-packaged set of Liquid templates, stylesheets, and configurations specifically designed for technical documentation. It provides a clean, responsive layout with sidebar navigation, search, and other common doc site features out of the box. JustTheDocs allows developers to customize a pre-made theme instead of building a documentation site design from scratch. Any meaningful customization (changing the layout, adding custom components, or integrating complex features) requires modifying its underlying Liquid and CSS code.   &#x20;
 
