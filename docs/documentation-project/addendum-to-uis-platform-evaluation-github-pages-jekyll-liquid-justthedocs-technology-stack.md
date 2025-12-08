@@ -128,7 +128,7 @@ The hidden costs of this approach extend far beyond the absence of licensing fee
 
 ### Project Lead Capacity & Sustainability
 
-The Jekyll approach fundamentally misunderstands the role of a technical writer. It transforms a content strategy and information architecture position into a system administrator and developer support role. This is a misalignment that sets the project up for long-term failure.
+The Jekyll approach fundamentally transforms the technical writer role from a content strategy and information architecture position into a system administrator and developer support role. This is a misalignment that sets the project up for long-term failure.
 
 **Impact:** The project lead cannot simultaneously serve as Git/Jekyll expert, training coordinator, technical helpdesk, and strategic content leader. This creates a guaranteed bottleneck and single point of failure.
 
