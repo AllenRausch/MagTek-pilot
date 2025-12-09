@@ -60,4 +60,4 @@ These criteria are important but can be worked around with addition of third-par
 
 ## Guiding Principle: The "Lowest Tech User" Test
 
-The final recommendation will be weighted most heavily against the **Primary Considerations**. A tool that is perfect for engineers but unusable for marketing and support fails the test. We are not just choosing a publishing tool; we are choosing a **collaboration platform** that must serve the entire MagTek ecosystem.
+The final recommendation will be weighted most heavily against the **Primary Considerations**. A tool that is perfect for engineers but unusable for marketing and support fails the test. We are not just choosing a documentation tool; we are choosing a **collaboration platform** that must serve the entire MagTek ecosystem.
