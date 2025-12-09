@@ -152,7 +152,7 @@ The costs for the Jekyll stack are divided into two clear categories: **Third-Pa
 
 * **Fully Loaded Cost:** Salary figures are not just base pay but include benefits, taxes, overhead, and workspace costs. This is typically 1.25x to 1.4x the base salary. A $120,000 base salary can easily equate to a $150,000+ fully loaded cost to the company.
 * **Opportunity Cost is the Real Cost:** The most expensive component is not software but diverting high-value engineering talent and the documentation manager from productive work to build and maintain an internal tool. This is a direct trade-off.
-* **Conservative Time Estimates:** The are conservative for a robust, production-ready system. Complexities with custom integrations or legacy content can easily extend these.
+* **Conservative Time Estimates:** These are conservative for a robust, production-ready system. Complexities with custom integrations or legacy content can easily extend these.
 
 ### Analysis of Third-Party Software Add-Ons
 
