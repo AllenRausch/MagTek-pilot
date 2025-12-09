@@ -35,6 +35,17 @@ This system will be:
 
 ***
 
+## Strategic Requirements
+
+Mandates from Leadership — non-negotiable requirements:
+
+* GitHub Backend Integration - All documentation must leverage GitHub as the version control and storage system
+* Unified System - Single platform serving both internal and external audiences with appropriate permissions
+* Docs-as-Code Workflow - Documentation integrated into development lifecycle
+* Compliance Support - Audit trails, version control, approval workflows for PCI requirements
+* AI-Ready Architecture - System must support future AI implementation (Nedal's strategic priority)
+* Operational Sustainability - Must be manageable by current technical writing team (team of one)
+
 ## Strategic Objectives
 
 * Eliminate Information Silos: Dismantle the fragmentation between Agile, Jira, Email, the Support site, and local drives to ensure all stakeholders access the same version of the truth.
@@ -383,16 +394,3 @@ Compliance Documentation
 * Audit Response Documentation
 
 See a [complete taxonomy with audience mappings](unified-information-system-doc-type-and-audience-matrix.md).&#x20;
-
-***
-
-## Appendix E: Strategic Requirements
-
-Mandates from Leadership — non-negotiable requirements:
-
-* GitHub Backend Integration - All documentation must leverage GitHub as the version control and storage system
-* Unified System - Single platform serving both internal and external audiences with appropriate permissions
-* Docs-as-Code Workflow - Documentation integrated into development lifecycle
-* Compliance Support - Audit trails, version control, approval workflows for PCI requirements
-* AI-Ready Architecture - System must support future AI implementation (Nedal's strategic priority)
-* Operational Sustainability - Must be manageable by current technical writing team (team of one)
