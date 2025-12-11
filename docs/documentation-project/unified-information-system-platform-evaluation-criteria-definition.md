@@ -12,7 +12,11 @@ The criteria are split into:
 
 Stakeholders are encouraged to review these criteria against the characteristics they need for their own workflows and suggest additional considerations. The final recommendation will score each pilot tool against this framework.
 
-***
+## Guiding Principle: The "Lowest Tech User" Test
+
+The final recommendation will be weighted most heavily against the Primary Considerations. A tool that is perfect for engineers but unusable for marketing and support fails the test.
+
+We are not just choosing a publishing tool; we are choosing a **collaboration platform** that must serve the entire MagTek ecosystem. The evaluation standard is not "Can a technically-minded person learn this?" but rather "Can a non-technical Marketing coordinator update a product spec during a customer call without engineering assistance?"
 
 ## Primary Considerations: Essential for Success
 
@@ -60,8 +64,3 @@ These criteria are important but can be worked around with addition of third-par
 
 ***
 
-## Guiding Principle: The "Lowest Tech User" Test
-
-The final recommendation will be weighted most heavily against the Primary Considerations. A tool that is perfect for engineers but unusable for marketing and support fails the test.
-
-We are not just choosing a publishing tool; we are choosing a **collaboration platform** that must serve the entire MagTek ecosystem. The evaluation standard is not "Can a technically-minded person learn this?" but rather "Can a non-technical Marketing coordinator update a product spec during a customer call without engineering assistance?"
