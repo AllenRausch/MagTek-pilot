@@ -161,6 +161,6 @@
     * [Unified Information System Document Approval Dashboard Prototype](docs/documentation-project/unified-information-system-document-approval-dashboard-prototype.md)
     * [Documentation Approval Process](docs/documentation-project/documentation-approval-process.md)
     * [Unified Information System Platform Evaluation](docs/documentation-project/unified-information-system-platform-evaluation.md)
-    * [Unified Information System Strategic Vision](docs/documentation-project/unified-information-system-strategic-vision.md)
-    * [Addendum to UIS Platform Evaluation – GitHub Pages/Jekyll/Liquid/JustTheDocs Technology Stack](docs/documentation-project/addendum-to-uis-platform-evaluation-github-pages-jekyll-liquid-justthedocs-technology-stack.md)
     * [Unified Information System Strategic Framework](docs/documentation-project/unified-information-system-strategic-framework.md)
+    * [Addendum to UIS Platform Evaluation – GitHub Pages/Jekyll/Liquid/JustTheDocs Technology Stack](docs/documentation-project/addendum-to-uis-platform-evaluation-github-pages-jekyll-liquid-justthedocs-technology-stack.md)
+    * [Unified Information System Strategic Framework](docs/documentation-project/unified-information-system-strategic-framework-1.md)

@@ -4,11 +4,11 @@
 
 The current state of MagTek's documentation ecosystem represents a critical business risk that directly impacts engineering velocity, customer satisfaction, regulatory compliance, and operational efficiency. Comprehensive stakeholder interviews across Engineering, Product Management, Support, Marketing, and Executive leadership have identified systemic failures in how knowledge is created, stored, and accessed.
 
-**Core Problem:** Information fragmentation has created a "tribal knowledge" culture where critical technical knowledge exists primarily in individuals' heads, email chains, and an unusable Word document. This prevents efficient onboarding, slows development cycles, increases support costs, and creates compliance risks.
+Core Problem: Information fragmentation has created a "tribal knowledge" culture where critical technical knowledge exists primarily in individuals' heads, email chains, and an unusable Word document. This prevents efficient onboarding, slows development cycles, increases support costs, and creates compliance risks.
 
-**Solution:** This framework establishes the strategic foundation for a Unified Information System (UIS), a single, unified knowledge ecosystem that serves as the "Single Source of Truth" for all MagTek technical information.
+Solution: This framework establishes the strategic foundation for a Unified Information System (UIS), a single, unified knowledge ecosystem that serves as the "Single Source of Truth" for all MagTek technical information.
 
-**Key Findings from Discovery:**
+Key Findings from Discovery:
 
 * 100% of stakeholders cited information fragmentation as their primary pain point
 * The monolithic Word document is universally described as "unusable"
@@ -69,7 +69,7 @@ System must support future AI implementation, including:
 * Automated content improvement
 * Intelligent user support (chatbots, Q\&A)
 
-**Rationale:** AI capabilities are rapidly transitioning from luxury to core expectation for modern documentation systems, directly impacting content quality, maintainer efficiency, and user success.
+Rationale: AI capabilities are rapidly transitioning from luxury to core expectation for modern documentation systems, directly impacting content quality, maintainer efficiency, and user success.
 {% endstep %}
 
 {% step %}
@@ -81,7 +81,7 @@ System must be manageable by the current technical writing team (team of one) wi
 * DevOps or system administration skills
 * Ongoing dependency on engineering resources for routine operations
 
-**Rationale:** Documentation lead expertise is in content strategy and information architecture. Engineering resources must focus on product development, not documentation infrastructure.
+Rationale: Documentation lead expertise is in content strategy and information architecture. Engineering resources must focus on product development, not documentation infrastructure.
 {% endstep %}
 {% endstepper %}
 
@@ -97,7 +97,7 @@ The specific problems the UIS is designed to solve:
 
 Dismantle the fragmentation between Agile, Jira, Email, the Support site, and local drives to ensure all stakeholders access the same version of the truth.
 
-**Success measure:** Single authoritative location for each piece of information; elimination of duplicate or conflicting documentation.
+Success measure: Single authoritative location for each piece of information; elimination of duplicate or conflicting documentation.
 {% endstep %}
 
 {% step %}
@@ -105,7 +105,7 @@ Dismantle the fragmentation between Agile, Jira, Email, the Support site, and lo
 
 Integrate documentation into the development lifecycle ("shift left"), removing the friction of updating the legacy Word manual and enabling docs to move at the speed of code.
 
-**Success measure:** Documentation updates occur within the same sprint as code changes; reduced time from feature completion to documentation availability.
+Success measure: Documentation updates occur within the same sprint as code changes; reduced time from feature completion to documentation availability.
 {% endstep %}
 
 {% step %}
@@ -113,7 +113,7 @@ Integrate documentation into the development lifecycle ("shift left"), removing 
 
 Drastically cut the time internal teams (Support/Test/Engineering) spend hunting for answers, directly reducing the "interrupt cost" on Engineering.
 
-**Success measure:** Average time to find information reduced from 15–30 minutes to under 2 minutes; reduction in "where is this documented?" questions.
+Success measure: Average time to find information reduced from 15–30 minutes to under 2 minutes; reduction in "where is this documented?" questions.
 {% endstep %}
 
 {% step %}
@@ -121,7 +121,7 @@ Drastically cut the time internal teams (Support/Test/Engineering) spend hunting
 
 Empower customers and integrators with a searchable, self-service portal containing actionable troubleshooting guides and API references.
 
-**Success measure:** 10% reduction in routine support tickets; increased customer satisfaction scores; measurable reduction in support team burden.
+Success measure: 10% reduction in routine support tickets; increased customer satisfaction scores; measurable reduction in support team burden.
 {% endstep %}
 
 {% step %}
@@ -129,7 +129,7 @@ Empower customers and integrators with a searchable, self-service portal contain
 
 Leverage Git-based version control to provide an immutable audit trail for every change, directly supporting PCI PTS and PCI DSS requirements.
 
-**Success measure:** Successful PCI Delta evaluation; reduced audit preparation time; complete audit trail for all compliance-critical documentation.
+Success measure: Successful PCI Delta evaluation; reduced audit preparation time; complete audit trail for all compliance-critical documentation.
 {% endstep %}
 {% endstepper %}
 
@@ -141,27 +141,27 @@ What success looks like: A single, unified knowledge ecosystem that serves as th
 
 ### System Characteristics
 
-**Unified but Segmented**
+Unified but Segmented
 
 * Single platform that houses both proprietary internal documentation and public-facing documentation
 * Strict access controls ensure appropriate visibility
 * Eliminates system fragmentation while maintaining security
 
-**Collaborative by Design**
+Collaborative by Design
 
 * Democratizes contribution across departments
 * Non-technical experts (Support, Marketing, PMs) can contribute easily
 * Engineers work within their native GitHub workflows
 * No single-person bottleneck for documentation updates
 
-**Future-Proof**
+Future-Proof
 
 * Structured, searchable database of knowledge
 * Ready for AI integration (semantic search, content suggestions, chatbots)
 * Scalable for future product lines and organizational growth
 * Platform-agnostic content (Markdown files in Git)
 
-**Operationally Sustainable**
+Operationally Sustainable
 
 * Manageable by current technical writing resources
 * Minimal dependency on engineering for routine operations
@@ -176,37 +176,37 @@ Core principles that inform all decisions about the UIS:
 
 ### The "Low Tech User with Basic Aptitude" Standard
 
-**Principle:** The system must be accessible to non-technical professionals (Marketing, Support, Product Management) with appropriate training, without requiring programming or DevOps expertise.
+Principle: The system must be accessible to non-technical professionals (Marketing, Support, Product Management) with appropriate training, without requiring programming or DevOps expertise.
 
-**Rationale:** We cannot solve the "tribal knowledge" problem if only engineers can contribute. Breaking down information silos requires broad participation across departments.
+Rationale: We cannot solve the "tribal knowledge" problem if only engineers can contribute. Breaking down information silos requires broad participation across departments.
 
-**Practical Test:** Can a Marketing coordinator or Support specialist, with reasonable training, update documentation independently without requiring engineering assistance for routine tasks?
+Practical Test: Can a Marketing coordinator or Support specialist, with reasonable training, update documentation independently without requiring engineering assistance for routine tasks?
 
-**Acknowledgment:** Contributors will need some training and should have basic professional aptitude. Not everyone in the company will contribute to documentation. The question is whether training requirements are reasonable (hours/days) or prohibitive (weeks/months).
+Acknowledgment: Contributors will need some training and should have basic professional aptitude. Not everyone in the company will contribute to documentation. The question is whether training requirements are reasonable (hours/days) or prohibitive (weeks/months).
 
 ### Operational Independence
 
-**Principle:** The technical writing team must be able to operate the system independently without creating permanent dependency on engineering resources.
+Principle: The technical writing team must be able to operate the system independently without creating permanent dependency on engineering resources.
 
-**Rationale:** Engineering time is scarce and should be focused on product development, not documentation infrastructure support.
+Rationale: Engineering time is scarce and should be focused on product development, not documentation infrastructure support.
 
-**Practical Test:** Can the documentation lead manage users, permissions, content organization, troubleshooting, and training without engineering escalation for routine tasks?
+Practical Test: Can the documentation lead manage users, permissions, content organization, troubleshooting, and training without engineering escalation for routine tasks?
 
 ### Content Over Infrastructure
 
-**Principle:** The documentation team's focus should be on content strategy, information architecture, and quality, not on maintaining infrastructure.
+Principle: The documentation team's focus should be on content strategy, information architecture, and quality—not on maintaining infrastructure.
 
-**Rationale:** The value the technical writing function provides is professional documentation expertise, not system administration. Time spent on infrastructure is time not spent on strategic content work.
+Rationale: The value the technical writing function provides is professional documentation expertise, not system administration. Time spent on infrastructure is time not spent on strategic content work.
 
-**Practical Test:** Does the platform minimize infrastructure maintenance burden, allowing the documentation team to focus on content creation and strategy?
+Practical Test: Does the platform minimize infrastructure maintenance burden, allowing the documentation team to focus on content creation and strategy?
 
 ### Docs-as-Code Without Code-as-Requirement
 
-**Principle:** Documentation should be stored in Git and version-controlled like code, but contributing to documentation should not require coding skills or developer tools.
+Principle: Documentation should be stored in Git and version-controlled like code, but contributing to documentation should not require coding skills or developer tools.
 
-**Rationale:** The "docs-as-code" philosophy provides powerful benefits (version control, code integration), but forcing all contributors to use developer workflows defeats the collaboration goal.
+Rationale: The "docs-as-code" philosophy provides powerful benefits (version control, code integration), but forcing all contributors to use developer workflows defeats the collaboration goal.
 
-**Practical Test:** Can engineers work in Git/GitHub while non-technical users work through an accessible interface, with changes syncing bidirectionally?
+Practical Test: Can engineers work in Git/GitHub while non-technical users work through an accessible interface, with changes syncing bidirectionally?
 
 ***
 
@@ -214,35 +214,35 @@ Core principles that inform all decisions about the UIS:
 
 ### Quantified Benefits
 
-**Productivity Gains:**
+Productivity Gains:
 
 * Reduced time-to-information: 5 hours/week per employee × 20 employees = \~$50,000/year in recovered productivity
 * Faster onboarding: Reduce new hire ramp-up time by 20–30%
 * Accelerated development: Documentation integrated into workflow, not after-the-fact
 
-**Support Efficiency:**
+Support Efficiency:
 
 * 10% reduction in support tickets through better self-service
 * Reduced internal support burden (Test team helping Support)
 * Faster resolution time with better troubleshooting documentation
 
-**Compliance Benefits:**
+Compliance Benefits:
 
 * Audit-ready documentation with immutable change history
 * Reduced audit preparation time and cost
 * Lower risk of compliance failures
 
-**Risk Mitigation:**
+Risk Mitigation:
 
 * Eliminate single points of failure (monolithic Word doc, key person dependencies)
 * Preserve institutional knowledge
 * Reduce rework from miscommunication
 
-**Estimated ROI:** 15:1 to 25:1 when considering efficiency gains and cost avoidance.
+Estimated ROI: 15:1 to 25:1 when considering efficiency gains and cost avoidance.
 
 ### Cost Considerations
 
-**Note:** Detailed Total Cost of Ownership analysis is provided in the Platform Evaluation Criteria document. Cost considerations include:
+Note: Detailed Total Cost of Ownership analysis is provided in the Platform Evaluation Criteria document. Cost considerations include:
 
 * Direct software licensing costs
 * Third-party service costs (if applicable)
@@ -251,7 +251,7 @@ Core principles that inform all decisions about the UIS:
 * Training and enablement (internal time)
 * Support burden for contributors
 
-**Critical Principle:** A "free" solution that requires 10–20% of a senior developer's time for ongoing maintenance costs $20,000–$40,000+ annually in opportunity cost, potentially more than a managed SaaS solution.
+Critical Principle: A "free" solution that requires 10–20% of a senior developer's time for ongoing maintenance costs $20,000–$40,000+ annually in opportunity cost—potentially more than a managed SaaS solution.
 
 ***
 
@@ -259,29 +259,29 @@ Core principles that inform all decisions about the UIS:
 
 ### Critical Success Factors
 
-* **Executive Commitment**
+* Executive Commitment
   * Sustained executive sponsorship for the unified vision
   * Budget approval for recommended tooling
   * Support for culture change around documentation
-* **Stakeholder Engagement**
+* Stakeholder Engagement
   * Active participation from all departments throughout implementation
   * Commitment to changing documentation culture from "ask someone" to "check the docs"
   * Willingness to invest in training and adoption
-* **Operational Sustainability**
+* Operational Sustainability
   * Appropriate tool selection aligned with team capacity
   * Engineering support for GitHub integration (not daily operations)
   * Realistic timeline and phased implementation approach
 
 ### Key Dependencies
 
-**Internal:**
+Internal:
 
 * Management approval of strategic framework and platform selection
 * Stakeholder availability for pilot participation and feedback
 * IT infrastructure support for hosting decisions
 * Engineering team support for GitHub integration
 
-**External:**
+External:
 
 * Platform vendor stability and feature roadmap (for SaaS solutions)
 * PCI compliance auditor acceptance of new documentation system
@@ -331,40 +331,40 @@ MagTek's documentation currently exists across multiple, disconnected systems:
 
 #### Stakeholder Pain Points by Team
 
-**Firmware Engineering Team:**
+Firmware Engineering Team:
 
 * Cannot update the Programmer's Manual due to technical limitations
 * Forced to create separate Word docs and email them for manual integration
 * No efficient way to share knowledge with other teams
 * Compliance documentation (cryptography, key management) lacks structured review process
 
-**Support Team (Stewart Montgomery):**
+Support Team (Stewart Montgomery):
 
 * No access to internal engineering documentation (Agile)
 * Relies on "tribal knowledge" and personal notes
 * Spends significant time daily fielding information requests from other teams
 * Customers struggle to find actionable help in current documentation
 
-**Test Team (Kyle Szeto, Donnie James):**
+Test Team (Kyle Szeto, Donnie James):
 
 * Spends hours daily helping Support locate documentation
 * Test plans difficult to create due to missing or scattered requirements
 * Documentation typically drafted after testing (too late to be useful)
 
-**Product Management Team:**
+Product Management Team:
 
 * Documentation updates happen at end of release cycle
 * No integration between product development and doc creation
 * Difficulty prioritizing documentation work
 
-**Marketing Team (Rebecca Robinson):**
+Marketing Team (Rebecca Robinson):
 
 * Maintaining unsupported, proprietary CMS
 * Manual, error-prone publishing process
 * No version control or audit trail
 * Documentation frequently out of sync with product changes
 
-**Executive Leadership:**
+Executive Leadership:
 
 * No unified system for both internal and external stakeholders
 * Compliance risks due to lack of audit trails
@@ -377,7 +377,7 @@ As a payment security company, MagTek operates under strict regulatory requireme
 * PCI PTS (PIN Transaction Security) - Hardware device certification requirements
 * PCI DSS (Data Security Standard) - Overall system security requirements
 
-**Current Compliance Gaps:**
+Current Compliance Gaps:
 
 * No immutable audit trail for documentation changes
 * Difficulty tracking "who changed what, when, and why"
@@ -410,26 +410,26 @@ Methodology: Semi-structured interviews (30–60 minutes each) focusing on:
 * Tool preferences and requirements
 * Compliance and security needs
 
-**Analysis:** Thematic analysis identified common patterns across all stakeholder groups, with 100% agreement on core problem of information fragmentation.
+Analysis: Thematic analysis identified common patterns across all stakeholder groups, with 100% agreement on core problem of information fragmentation.
 
 ***
 
 ### Appendix C: Content & System Audit
 
-* **Programmer's Manual:** Large Word document (5,000+ pages) - confirmed unusable by all stakeholders due to performance issues
-* **Oracle Agile:** Several thousand documents - access limited to engineering, searchability poor, not designed for readable documentation
-* **Support Website**: Outdated information, poor navigation, unsupported proprietary CMS creating maintenance burden
-* **GitHub:** Currently used only for code, not documentation; serves as mandated backend for new system
-* **Email/Chat/Personal Notes:** Unmeasured volume of tribal knowledge scattered across communication channels and individual files
+* Programmer's Manual: Large Word document (5,000+ pages) - confirmed unusable by all stakeholders due to performance issues
+* Oracle Agile: Several thousand documents - access limited to engineering, searchability poor, not designed for readable documentation
+* Support Website: Outdated information, poor navigation, unsupported proprietary CMS creating maintenance burden
+* GitHub: Currently used only for code, not documentation; serves as mandated backend for new system
+* Email/Chat/Personal Notes: Unmeasured volume of tribal knowledge scattered across communication channels and individual files
 
 ***
 
 ### Appendix D: Strategic Alignment Call Notes
 
-**Date:** December 11, 2025\
-**Attendees:** Andy Deignan, Paul Deignan, Nedal Almomani, Dave Xu, Allen Rausch
+Date: December 11, 2025\
+Attendees: Andy Deignan, Paul Deignan, Nedal Almomani, Allen Rausch
 
-**Key Agreements:**
+Key Agreements:
 
 * Unified documentation system remains strategic priority
 * Break down information silos and tribal knowledge culture
@@ -437,7 +437,7 @@ Methodology: Semi-structured interviews (30–60 minutes each) focusing on:
 * AI-readiness for future capabilities important
 * Evaluation process must be inclusive with stakeholder input
 
-**Process Refinements:**
+Process Refinements:
 
 * "Low tech user" standard refined to "low tech user with basic aptitude"
 * Acknowledge that contributors will need training (reasonable amount)
@@ -445,7 +445,7 @@ Methodology: Semi-structured interviews (30–60 minutes each) focusing on:
 * Evaluation criteria should distinguish objective/measurable from experiential/qualitative factors
 * Hands-on testing with representative users desired
 
-**Action Items from Call:**
+Action Items from Call:
 
 * Revise evaluation criteria based on feedback
 * Conduct hands-on testing of platform options
