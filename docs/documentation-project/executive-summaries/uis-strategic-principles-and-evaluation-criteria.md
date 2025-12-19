@@ -266,7 +266,3 @@
 **These documents provide the detailed analysis and supporting evidence for today's discussion.**
 
 **They may be adjusted based on agreements made in this meeting.**
-
-![](<../../../.gitbook/assets/Unknown image (3)>) ![](<../../../.gitbook/assets/Unknown image (4)>) ![](<../../../.gitbook/assets/Unknown image (5)>) ![](<../../../.gitbook/assets/Unknown image (6)>)
-
-Thank you
