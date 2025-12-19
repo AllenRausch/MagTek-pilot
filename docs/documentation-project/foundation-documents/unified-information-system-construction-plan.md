@@ -204,8 +204,8 @@ Finalize all strategic plans and establish the foundation for the pilot launch i
 
 ### Transition Graphic Summaries
 
-![](<../../.gitbook/assets/Unknown image>)
+![](<../../../.gitbook/assets/Unknown image>)
 
-![](<../../.gitbook/assets/Unknown image (1)>)
+![](<../../../.gitbook/assets/Unknown image (1)>)
 
-![](<../../.gitbook/assets/Unknown image (2)>)
+![](<../../../.gitbook/assets/Unknown image (2)>)
