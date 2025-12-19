@@ -66,9 +66,9 @@
 
 * System must support future AI implementation
 
-### ✅ Operational Sustainability
+✅ **Operational Sustainability**
 
-• Must be manageable by current technical writing team (team of one)
+* Must be manageable by current technical writing team (team of one)
 
 **Question for the group**: Are these still our requirements, or have priorities changed?
 
@@ -80,7 +80,7 @@
 
 ### The "Low Tech User" Test (Refined from discussion)
 
-• _"A tool that is perfect for engineers but unusable for marketing and support fails the test. We are not just choosing a documentation tool; we are choosing a**collaboration platform**that must serve the entire MagTek ecosystem.“_
+_"A tool that is perfect for engineers but unusable for marketing and support fails the test. We are not just choosing a documentation tool; we are choosing a**collaboration platform**that must serve the entire MagTek ecosystem.“_
 
 ### The "Low Tech User" Standard
 
