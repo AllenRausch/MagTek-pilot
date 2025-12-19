@@ -164,3 +164,4 @@
     * [Unified Information System Strategic Framework](docs/documentation-project/unified-information-system-strategic-vision.md)
     * [Addendum to UIS Platform Evaluation – GitHub Pages/Jekyll/Liquid/JustTheDocs Technology Stack](docs/documentation-project/addendum-to-uis-platform-evaluation-github-pages-jekyll-liquid-justthedocs-technology-stack.md)
     * [Strategic Summaries](docs/documentation-project/strategic-summaries.md)
+    * [Foundation Documents](docs/documentation-project/foundation-documents.md)
