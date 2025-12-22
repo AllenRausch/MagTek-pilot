@@ -35,9 +35,9 @@ The UIS must be accessible to non-technical professionals (Marketing, Support, P
 
 ## Objective vs. Experiential Criteria
 
-evaluation criteria are categorized to distinguish between objective/measurable factors and experiential/qualitative factors:
+Evaluation criteria are categorized to distinguish between objective/measurable factors and experiential/qualitative factors:
 
-**Objective Criteria** (Measurable Features):
+**Objective Criteria Examples** (Measurable Features):
 
 * Does the platform have search functionality?
 * What is the annual licensing cost?&#x20;
@@ -45,7 +45,7 @@ evaluation criteria are categorized to distinguish between objective/measurable 
 * Can it export to PDF?&#x20;
 * Does it support multi-factor authentication
 
-**Experiential Criteria** (User Experience Factors):
+**Experiential Criteria Examples** (User Experience Factors):
 
 * How much training is required for non-technical users? (Hours/Days/Weeks)
 * What is the operational maintenance burden? (High/Medium/Low)
