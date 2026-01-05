@@ -157,6 +157,7 @@
     * [Executive Summaries](docs/documentation-project/executive-summaries/README.md)
       * [UIS Strategic Principles & Evaluation Criteria](docs/documentation-project/executive-summaries/uis-strategic-principles-and-evaluation-criteria.md)
       * [UIS Framework Confirmation & Evaluation Approach](docs/documentation-project/executive-summaries/uis-framework-confirmation-and-evaluation-approach.md)
+      * [UIS Platform Hands](docs/documentation-project/executive-summaries/uis-platform-hands.md)
     * [Foundation Documents](docs/documentation-project/foundation-documents/README.md)
       * [Unified Information System Construction Plan](docs/documentation-project/foundation-documents/unified-information-system-construction-plan.md)
       * [MagTek Documentation Team Charter/Mission Statement](docs/documentation-project/foundation-documents/magtek-documentation-team-charter-mission-statement.md)
