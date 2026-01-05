@@ -30,7 +30,7 @@ We will conduct parallel evaluations focused on the documentation contributor ex
 
 ### Engineering Writer Evaluation
 
-* Participants: Two firmware engineers (Long, Donnie) selected for their documentation skills.
+* Participants: Three firmware engineers (Long, Donnie, Eric) selected for their documentation skills.
 * Format: Moderated, 45-minute session per platform, with "think-aloud" protocol.
 * Focus: Efficiency and friction of the "docs-as-code" (Jekyll/Git) vs. integrated editor (GitBook) workflow for a technical writer. This tests the hidden cost of contribution for our most prolific writers.
 * Core Task: Perform a standardized set of writing tasks (find, edit, create, check status) in each system using its native workflow.
