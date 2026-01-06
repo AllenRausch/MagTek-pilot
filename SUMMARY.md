@@ -169,4 +169,4 @@
       * [Unified Information System Doc Type & Audience Matrix](docs/documentation-project/foundation-documents/unified-information-system-doc-type-and-audience-matrix.md)
       * [Unified Information System Platform Evaluation - Criteria Definition](docs/documentation-project/foundation-documents/unified-information-system-platform-evaluation-criteria-definition.md)
     * [Hands-on Test Directory](docs/documentation-project/hands-on-test-directory/README.md)
-      * [Secure Reader 5000 Quick Start Guide - Test Text](docs/documentation-project/hands-on-test-directory/secure-reader-5000-quick-start-guide-test-text.md)
+      * [Secure Reader 5000 Quick Start Guide](docs/documentation-project/hands-on-test-directory/secure-reader-5000-quick-start-guide.md)
