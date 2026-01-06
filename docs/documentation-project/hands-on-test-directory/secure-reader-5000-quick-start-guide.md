@@ -38,18 +38,10 @@ On your host computer, open the Device Manager (Windows) or System Information (
 
 ## Troubleshooting
 
-<details>
-
-<summary>No Power LED</summary>
+**No Power LED**
 
 Ensure the power switch is firmly in the "ON" position and that the USB cable is fully seated at both ends. Try a different USB port on your computer.
 
-</details>
-
-<details>
-
-<summary>Device Not Recognized</summary>
+**Device Not Recognized**
 
 Try using the provided cable. Third-party cables may not support the full data/power profile required. If the issue persists, proceed to the advanced driver installation guide.
-
-</details>
