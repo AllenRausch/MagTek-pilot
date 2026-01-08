@@ -173,3 +173,4 @@
       * [Secure Reader 5000 Technical Specifications](docs/documentation-project/playground/secure-reader-5000-technical-specifications.md)
       * [Secure Reader 5000 Installation Manual](docs/documentation-project/playground/secure-reader-5000-installation-manual.md)
       * [Template Product Quick Start](docs/documentation-project/playground/template-product-quick-start.md)
+      * [Secure Reader 6000](docs/documentation-project/playground/secure-reader-6000.md)
