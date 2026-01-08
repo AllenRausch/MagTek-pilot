@@ -35,8 +35,3 @@ Configure using the mobile app
 {% endstepper %}
 
 {% include "../../../.gitbook/includes/safety-warning.md" %}
-
-{% include "../../../.gitbook/includes/specifications-table.md" %}
-
-&#x20;
-
