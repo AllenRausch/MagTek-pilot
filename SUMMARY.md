@@ -172,3 +172,4 @@
       * [Secure Reader 5000 Quick Start Guide](docs/documentation-project/hands-on-test-directory/secure-reader-5000-quick-start-guide.md)
       * [Secure Reader 5000 Technical Specifications](docs/documentation-project/hands-on-test-directory/secure-reader-5000-technical-specifications.md)
       * [Secure Reader 5000 Installation Manual](docs/documentation-project/hands-on-test-directory/secure-reader-5000-installation-manual.md)
+      * [Template Product Quick Start](docs/documentation-project/hands-on-test-directory/template-product-quick-start.md)
