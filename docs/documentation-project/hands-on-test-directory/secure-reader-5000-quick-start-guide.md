@@ -30,13 +30,13 @@ Connect to network.
 {% step %}
 ### Configure
 
-Configure using the mobile app.
+Configure using the mobile app
 {% endstep %}
 {% endstepper %}
 
 {% include "../../../.gitbook/includes/safety-warning.md" %}
 
-
+{% include "../../../.gitbook/includes/specifications-table.md" %}
 
 &#x20;
 
