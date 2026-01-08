@@ -40,14 +40,6 @@
 
 ## Troubleshooting
 
-<details>
-
-<summary>Troubleshooting Guide</summary>
-
-\[Link to Troubleshooting Guide]
-
-</details>
-
 ## Next Steps
 
 * Read the full \[Installation Manual]
