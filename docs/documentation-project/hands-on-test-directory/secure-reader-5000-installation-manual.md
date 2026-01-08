@@ -4,11 +4,11 @@
 
 {% include "../../../.gitbook/includes/safety-warning.md" %}
 
-Make sure you have all the **Required Tools** listed in the [Quick Start Guide](/broken/pages/05cf95a2c961e591aa38e000c1ec2e451765f82b).
+Make sure you have all the **Required Tools** listed in the [Quick Start Guide](secure-reader-5000-quick-start-guide.md).
 
 ## Electrical Requirements
 
-Refer to the [Technical Specifications](/broken/pages/66b246b680b366f342d8d36c32ff71a4331b75af) for voltage requirements.
+Refer to the [Technical Specifications](secure-reader-5000-technical-specifications.md) for voltage requirements.
 
 ## Step-by-Step Installation
 
