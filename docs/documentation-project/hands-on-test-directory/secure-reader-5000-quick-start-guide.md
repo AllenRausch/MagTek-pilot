@@ -1,47 +1,51 @@
 # Secure Reader 5000 Quick Start Guide
 
-This guide provides the essential steps to unpack, connect, and perform a basic functional verification of your new Secure Reader 5000 device. Following these instructions will ensure your hardware is operational and ready for initial software configuration and integration into your point-of-sale or secure data environment. Please complete all steps in order and in a static-free workspace before proceeding to install the device drivers or management software. This is the toyp you're looking for.
+## Tools You'll Need
 
-## Required Tools
+* Phillips head screwdriver
+* Network cable
+* Power supply (110-240V AC)
 
-* A standard Phillips-head screwdriver.
-* The provided USB Type-C to Type-A connection cable.
-* Access to a power outlet near your setup station.
-
-## Initial Setup & Verification
+## Installation Steps
 
 {% stepper %}
 {% step %}
-### Unbox and Inspect
+### Unpack the device
 
-Carefully remove the Secure Reader 5000 and all accessories from the packaging. Visually inspect the device for any signs of physical damage incurred during shipping.
+Unpack the device from its box.
 {% endstep %}
 
 {% step %}
-### Establish Connection
+### Connect to power
 
-Plug the USB-C end of the cable into the port on the rear of the reader. Connect the USB-A end to an available port on your host computer or terminal.
+Connect to power source.
 {% endstep %}
 
 {% step %}
-### Power On
+### Connect to network
 
-Locate the power switch on the side of the unit and toggle it to the "ON" position. The green status LED should illuminate and begin a slow, steady blink, indicating the device is in standby mode and awaiting initialization.
+Connect to network.
 {% endstep %}
 
 {% step %}
-### Verify Communication
+### Configure
 
-On your host computer, open the Device Manager (Windows) or System Information (macOS). You should see the Secure Reader 5000 listed under "Ports (COM & LPT)" or as a new USB Serial Device. This confirms a successful basic hardware handshake.
+Configure using the mobile app.
 {% endstep %}
 {% endstepper %}
 
-## Troubleshooting
+## Safety Warning
 
-**No Power LED**
+This device contains sensitive electronic components. To prevent damage:
 
-Ensure the power switch is firmly in the "ON" position and that the USB cable is fully seated at both ends. Try a different USB port on your computer.
+\- Do not expose to liquids
 
-**Device Not Recognized**
+\- Do not disassemble
 
-Try using the provided cable. Third-party cables may not support the full data/power profile required. If the issue persists, proceed to the advanced driver installation guide.
+\- Use only MagTek-approved power supplies
+
+\- Keep away from strong magnetic fields
+
+&#x20;
+
+Failure to follow these instructions may void your warranty.
