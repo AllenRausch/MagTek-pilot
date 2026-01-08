@@ -34,18 +34,9 @@ Configure using the mobile app.
 {% endstep %}
 {% endstepper %}
 
-## Safety Warning
+{% include "../../../.gitbook/includes/safety-warning.md" %}
 
-This device contains sensitive electronic components. To prevent damage:
 
-\- Do not expose to liquids
-
-\- Do not disassemble
-
-\- Use only MagTek-approved power supplies
-
-\- Keep away from strong magnetic fields
 
 &#x20;
 
-Failure to follow these instructions may void your warranty.
