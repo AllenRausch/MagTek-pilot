@@ -1,10 +1,16 @@
 # Secure Reader 5000 Quick Start Guide
 
-## Tools You'll Need
+## Required Tools
 
 * Phillips head screwdriver
 * Network cable
 * Power supply (110-240V AC)
+
+## Troubleshooting
+
+* Red light may blink on and off several times during installation. This is normal during upgrade process.&#x20;
+* If screen locks up, try turning the device off and on.
+* If software doesn’t update during installation, check your wi-fi.
 
 ## Installation Steps
 
