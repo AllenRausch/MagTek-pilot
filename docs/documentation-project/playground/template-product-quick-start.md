@@ -6,6 +6,8 @@
 
 ## Before You Begin
 
+{% include "../../../.gitbook/includes/safety-warning.md" %}
+
 ## Installation
 
 {% stepper %}
