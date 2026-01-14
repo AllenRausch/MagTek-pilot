@@ -1,6 +1,6 @@
 # Secure Reader 5000 Quick Start Guide
 
-## Required Tools
+## Tools You'll Need
 
 * Phillips head screwdriver
 * Network cable
