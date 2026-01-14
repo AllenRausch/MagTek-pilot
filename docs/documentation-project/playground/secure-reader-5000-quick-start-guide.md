@@ -8,7 +8,7 @@
 
 ## Troubleshooting
 
-* Refer to the Troubleshooting Guide.
+* Refer to the [Troubleshooting Guide](secure-reader-5000-troubleshooting.md).
 
 ## Installation Steps
 
