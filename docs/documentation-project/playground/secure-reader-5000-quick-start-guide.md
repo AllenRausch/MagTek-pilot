@@ -12,6 +12,17 @@
 * If screen locks up, try turning the device off and on.
 * If software doesn’t update during installation, check your wi-fi.
 
+## Safety Warning
+
+This device contains sensitive electronic components. To prevent damage:
+
+* Do not expose to liquids
+* Do not disassemble
+* Use only MagTek-approved power supplies
+* Keep away from strong magnetic fields
+
+Failure to follow these instructions may void your warranty.
+
 ## Installation Steps
 
 {% stepper %}
@@ -36,8 +47,8 @@ Connect to network.
 {% step %}
 ### Configure
 
+
+
 Configure using the mobile app
 {% endstep %}
 {% endstepper %}
-
-{% include "../../../.gitbook/includes/safety-warning.md" %}
