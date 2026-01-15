@@ -4,7 +4,7 @@ title: Specifications table
 
 | Specification         | Value                     |
 | --------------------- | ------------------------- |
-| Input Voltage         | 100-240V AC ±10%          |
+| Input Voltage         | 110-240V AC ±10%          |
 | Power Consumption     | 15W max                   |
 | Operating Temperature | 0°C to 40°C               |
 | Storage Temperature   | 20°C to 60°C              |
