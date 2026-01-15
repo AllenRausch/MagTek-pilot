@@ -175,3 +175,4 @@
       * [Template Product Quick Start](docs/documentation-project/playground/template-product-quick-start.md)
       * [Secure Reader 7000 Quick Start Guide](docs/documentation-project/playground/secure-reader-7000-quick-start-guide.md)
       * [Secure Reader 6000 Update Notes](docs/documentation-project/playground/secure-reader-6000-update-notes.md)
+      * [GitBook Demo Walkthrough](docs/documentation-project/playground/gitbook-demo-walkthrough.md)
