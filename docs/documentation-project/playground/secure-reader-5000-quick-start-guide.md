@@ -3,6 +3,7 @@
 ## Required Tools
 
 * Phillips head screwdriver
+* Hammer
 * Network cable
 * Power supply (110-240V AC)
 
