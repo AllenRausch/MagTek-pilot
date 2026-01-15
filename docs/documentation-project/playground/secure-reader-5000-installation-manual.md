@@ -8,7 +8,9 @@ Make sure you have all the **Required Tools** listed in the [Quick Start Guide](
 
 ## Electrical Requirements
 
-Refer to the [Technical Specifications](secure-reader-5000-technical-specifications.md) for voltage requirements.
+{% include "../../../.gitbook/includes/specifications-table.md" %}
+
+
 
 ## Step-by-Step Installation
 
