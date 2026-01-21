@@ -8,34 +8,36 @@
 
 After comprehensive evaluation including live demonstrations, user feedback sessions, and detailed operational analysis, **we recommend GitBook as the documentation platform for the Unified Information System.**
 
-**The decisive factor is speed**: GitBook enables faster implementation, faster user onboarding, faster document production, and faster time-to-value. When Nedal emphasized the need to "get something up relatively fast" that can demonstrate progress to Andy, GitBook's advantages became clear—every aspect of the platform is designed for velocity.
+**The decisive factor is speed:** GitBook enables faster implementation, faster user onboarding, faster document production, and faster time-to-value. When Nedal emphasized the need to "get something up relatively fast" that can demonstrate progress to Andy, GitBook's advantages became clear—every aspect of the platform is designed for velocity.
 
-While Jekyll presents a lower initial licensing cost ($2,500 vs. $6,168 annually), the total cost of ownership analysis reveals GitBook delivers superior value when accounting for implementation effort, document production time, training requirements, ongoing maintenance, and user productivity.
+While Jekyll presents a lower initial licensing cost, the total cost of ownership analysis reveals GitBook delivers superior value when accounting for implementation effort, document production time, training requirements, ongoing maintenance, and user productivity.
 
-**Note:** The $6,168 annual GitBook cost consists of a fixed $3,000 platform license plus $3,168 for 22 team member seats at $12/month each. Actual costs can be reduced by limiting active contributors to 11 users, bringing total annual costs to approximately $4,584.
+**Note**: The initial $6,168 annual GitBook cost estimate consisted of a fixed $3,000 platform license plus $3,168 for 22 team member seats at $12/month each. Actual costs can be reduced by limiting active contributors to 10 users, bringing total annual costs to $4,440.
+
+**Note:** The $2,500 Jekyll cost estimate represents the midpoint between low-end open-source solutions (with severe limitations and high engineering labor costs) and high-end managed SaaS requiring 4-5 separate vendor subscriptions. This estimate includes necessary third-party services to achieve feature parity with GitBook: advanced search capabilities, page-level access control and audit trails, managed hosting infrastructure, integrated analytics, and future AI integration capabilities.
 
 **Key Decision Factors**
 
-**Speed Advantages (Critical for Nedal's Timeline):**
+**Speed Advantages:**
 
-* **Implementation**: GitBook operational in days vs. weeks with Jekyll
-* **User Competency**: Hours vs. days to productive contribution
-* **Document Production**: WYSIWYG editing 3-5x faster than code-based workflows
-* **Time-to-Value**: Start migrating content immediately vs. 6-8 week technical setup
+* **Implementation:** GitBook operational in days vs. weeks with Jekyll
+* **User Competency:** Hours vs. days to productive contribution
+* **Document Production:** WYSIWYG editing 3-5x faster than code-based workflows
+* **Time-to-Value:** Start migrating content immediately vs. 6-8 week technical setup
 
-**User Adoption**: 77.8% of feedback participants (7 of 9) prefer or lean toward GitBook, with only one technical executive (CTO) recommending Jekyll primarily due to cost concerns
+**User Adoption:** 77.8% of feedback participants (7 of 9) prefer or lean toward GitBook, with only one technical executive (CTO) recommending Jekyll primarily due to cost concerns
 
-**Productivity Impact**: GitBook enables immediate contribution with minimal training; Jekyll requires substantial technical onboarding even for experienced developers
+**Productivity Impact:** GitBook enables immediate contribution with minimal training; Jekyll requires substantial technical onboarding even for experienced developers
 
-**Strategic Fit**: Moving from 5,000-page Word documents to browser-based documentation requires maximum accessibility and speed. GitBook's WYSIWYG interface removes technical barriers; Jekyll's code-based approach creates friction at every step.
+**Strategic Fit:** Moving from unwieldy Word documents to browser-based documentation requires maximum accessibility and speed. GitBook's WYSIWYG interface removes technical barriers; Jekyll's code-based approach creates friction at every step.
 
-**Total Cost Reality**: Despite $3,668 higher annual licensing costs, GitBook saves $22,671 in Year 1 and $58,573 over 3 years through reduced training, maintenance, and productivity losses.
+**Total Cost Reality:** Despite $1,940 higher annual licensing costs, GitBook saves $24,544 in Year 1 through reduced training, maintenance, and productivity losses.
 
 **Final Recommendation**: GitBook's higher license cost is a strategic investment that accelerates implementation, reduces risk, enables faster daily operations, and allows broader organizational participation in documentation maintenance.
 
 **The Speed Imperative**
 
-GitBook’s decisive advantage over Jekyll is speed in all areas of consideration including time to first value.
+GitBook's decisive advantage over Jekyll is speed in all areas of consideration including time to first value.
 
 **GitBook Timeline to First Value:**
 
@@ -60,48 +62,40 @@ The 8-week gap is the difference between having a functioning documentation syst
 
 **See Appendix C: Implementation, Migration, and Production Speed Impact for more information**
 
-**Total Cost of Ownership Analysis (3-Year Projection)**
+**Total Cost of Ownership Analysis (Year 1)**
 
 **TCO Comparison Summary**
 
-| **Metric**       | **GitBook** | **Jekyll** | **Difference**                |
-| ---------------- | ----------- | ---------- | ----------------------------- |
-| Year 1 Total     | $11,444     | $34,115    | **Jekyll costs $22,671 more** |
-| 3-Year Total     | $33,132     | $91,705    | **Jekyll costs $58,573 more** |
-| Year 1 Per User  | $1,040      | $3,102     | **Jekyll costs $2,062 more**  |
-| 3-Year Per User  | $3,012      | $8,337     | **Jekyll costs $5,325 more**  |
-| Year 1 Licensing | $4,584      | $475       | **GitBook costs $4,109 more** |
+| **Metric**       | **GitBook** | **Jekyll** | **Difference**            |
+| ---------------- | ----------- | ---------- | ------------------------- |
+| Year 1 Total     | $11,200     | $35,744    | Jekyll costs $24,544 more |
+| Year 1 Per User  | $1,120      | $3,574     | Jekyll costs $2,454 more  |
+| Year 1 Licensing | $4,440      | $2,500     | GitBook costs $1,940 more |
 
-**The $4,109 annual licensing savings with Jekyll is offset by $22,671 in additional Year 1 costs—a 5.5:1 cost disadvantage.**
+**The $1,940 annual licensing savings with Jekyll is offset by $24,544 in additional Year 1 costs—a 12.7:1 cost disadvantage.**
 
 **GitBook TCO**
 
-| **Cost Category**                      | **Year 1**  | **Year 2**  | **Year 3**  | **3-Year Total** |
-| -------------------------------------- | ----------- | ----------- | ----------- | ---------------- |
-| Platform License (fixed)               | $3,000      | $3,000      | $3,000      | **$9,000**       |
-| Team Member Seats (11 users @ $12/mo.) | $1,584      | $1,584      | $1,584      | **$4,752**       |
-| Initial Training                       | $1,100      | $0          | $0          | **$1,100**       |
-| Ongoing Training/Support               | $0          | $500        | $500        | **$1,000**       |
-| Maintenance (6 hrs/mo @ $80/hr)        | $5,760      | $5,760      | $5,760      | **$17,280**      |
-| **Annual Total**                       | **$11,444** | **$10,844** | **$10,844** |                  |
-| **3-Year Total**                       |             |             |             | **$33,132**      |
+| **Cost Category**                      | **Year 1**  |
+| -------------------------------------- | ----------- |
+| Platform License (fixed)               | $3,000      |
+| Team Member Seats (10 users @ $12/mo.) | $1,440      |
+| Initial Training                       | $1,000      |
+| Maintenance (6 hrs/mo @ $80/hr)        | $5,760      |
+| **Year 1 Total**                       | **$11,200** |
 
-**Year 1 Cost per User: $1,040\*\*\*\*3-Year Cost per User: $3,012**
+**Year 1 Cost per User: $1,120**
 
 **Jekyll TCO**
 
-| **Cost Category**                           | **Year 1**  | **Year 2**  | **Year 3**  | **3-Year Total** |
-| ------------------------------------------- | ----------- | ----------- | ----------- | ---------------- |
-| Licensing                                   | $0          | $0          | $0          | **$0**           |
-| GitHub (existing)                           | $0          | $0          | $0          | **$0**           |
-| Codespaces (11 users, 20 hrs/mo @ $0.18/hr) | $475        | $475        | $475        | **$1,425**       |
-| Initial Training (TW + Team)                | $7,720      | $0          | $0          | **$7,720**       |
-| Ongoing Training/Support                    | $0          | $2,400      | $2,400      | **$4,800**       |
-| Maintenance (27 hrs/mo @ $80/hr)            | $25,920     | $25,920     | $25,920     | **$77,760**      |
-| **Annual Total**                            | **$34,115** | **$28,795** | **$28,795** |                  |
-| **3-Year Total**                            |             |             |             | **$91,705**      |
+| **Cost Category**                | **Year 1** |
+| -------------------------------- | ---------- |
+| Licensing & Third-Party Services | $2,500     |
+| Initial Training (TW + Team)     | $7,324     |
+| Maintenance (27 hrs/mo @ $80/hr) | $25,920    |
+| Year 1 Total                     | $35,744    |
 
-**Year 1 Cost per User: $3,102\*\*\*\*3-Year Cost per User: $8,337**
+**Year 1 Cost per User: $3,574**
 
 **See Appendix B: Operational Constraints: The Hidden Cost of Complexity for more information**
 
@@ -117,13 +111,13 @@ The choice between GitBook and Jekyll is fundamentally about speed, risk, and to
 
 **Risk:** GitBook has 77.8% user preference, minimal training requirements, and no single-point-of-failure dependencies. Jekyll risks adoption failure, productivity losses, and system abandonment.
 
-**Cost:** Despite lower licensing fees, Jekyll costs $25,671 more in Year 1 and $67,573 more over 3 years when accounting for training, maintenance, and productivity losses.
+**Cost:** Despite lower licensing fees, Jekyll costs $24,544 more in Year 1 when accounting for training, maintenance, and productivity losses.
 
 **Unambiguous feedback:** Engineers, QA, test, marketing, and hardware personnel prefer GitBook's speed and accessibility. Only cost concerns drive Jekyll consideration—but the cost analysis proves those concerns are unfounded.
 
-**The timeline requirement is decisive:** Demonstrating a working system to in weeks rather than months is only achievable with GitBook.
+**The timeline requirement is decisive:** Demonstrating a working system in weeks rather than months is only achievable with GitBook.
 
-**See Appendix H: Final Recommendation for more information**
+**See Appendix G: Final Recommendation for more information**
 
 **Appendix A: Stakeholder Feedback Analysis**
 
@@ -131,17 +125,17 @@ The choice between GitBook and Jekyll is fundamentally about speed, risk, and to
 
 Nine team members completed structured feedback following hands-on demonstrations across six realistic scenarios:
 
-| **Participant**  | **Role**                  | **Experience Level** | **Platform Preference** |
-| ---------------- | ------------------------- | -------------------- | ----------------------- |
-| Donnie James     | Software Test Engineer    | Basic                | GitBook                 |
-| Nedal Almomani   | CTO                       | Advanced             | Jekyll (cost-driven)    |
-| Erik Young       | FW Developer              | Moderate             | GitBook                 |
-| Long Vu          | Software QA Engineer      | Basic                | GitBook                 |
-| Dave Xu          | FW Engineer               | Moderate             | GitBook                 |
-| Larry Meyers     | VP, Chief Architect       | Advanced             | No strong preference    |
-| Rebecca Robinson | Marketing Manager         | Basic                | GitBook (after testing) |
-| Jay Guevara      | Hardware Engineer Manager | Basic                | GitBook                 |
-| Parastou Behnia  | Project Manager           | Basic                | _(Did not submit)_      |
+| **Participant**  | **Role**                  | **Experience Level** | **Platform Preference**     |
+| ---------------- | ------------------------- | -------------------- | --------------------------- |
+| Donnie James     | Software Test Engineer    | Basic                | GitBook                     |
+| Nedal Almomani   | CTO                       | Advanced             | Jekyll (cost-driven)        |
+| Erik Young       | FW Developer              | Moderate             | GitBook                     |
+| Long Vu          | Software QA Engineer      | Basic                | GitBook                     |
+| Dave Xu          | FW Engineer               | Moderate             | GitBook                     |
+| Larry Meyers     | VP, Chief Architect       | Advanced             | GitBook (based on comments) |
+| Rebecca Robinson | Marketing Manager         | Basic                | GitBook (after testing)     |
+| Jay Guevara      | Hardware Engineer Manager | Basic                | GitBook                     |
+| Parastou Behnia  | Project Manager           | Basic                | No strong preference        |
 
 **Preference Breakdown:**
 
@@ -286,9 +280,7 @@ Jay: Both rated 4, but noted Jekyll's "learning curve with syntax"
 
 * GitBook average: 4.3/5
 * Jekyll average: 3.1/5
-
-Donnie: GitBook rated 5 vs Jekyll rated 3
-
+* Donnie: GitBook rated 5 vs Jekyll rated 3
 * Erik: "Too manual after creation" for Jekyll
 * Jay: Both rated 4, showing templates help Jekyll somewhat
 
@@ -304,7 +296,7 @@ Donnie: GitBook rated 5 vs Jekyll rated 3
 * Both platforms leverage GitHub's collaboration features effectively
 * Jay: Both rated 3, noting similar review processes
 
-**Speed Implications:** Both platforms use familiar PR/review workflows, though GitBook's visual diff is easier to review than Markdown changes.
+**Speed Implications**: Both platforms use familiar PR/review workflows, though GitBook's visual diff is easier to review than Markdown changes.
 
 **Scenario 6: Cross-Referencing & Navigation**
 
@@ -327,7 +319,7 @@ These constraints translate into direct, measurable costs:
 
 **The Largest Operational Constraint:** Before creating training materials for the team, the Technical Writer must become an expert on the entire tech stack.
 
-Required Learning (Conservative Estimate):
+**Required Learning (Conservative Estimate):**
 
 * Markdown fundamentals: 8-10 hours
 * YAML front matter / JustTheDocs navigation: 6-8 hours
@@ -335,7 +327,7 @@ Required Learning (Conservative Estimate):
 * Git/GitHub/Codespaces workflow: 6-8 hours
 * Jekyll site structure: 3-4 hours
 
-Total: 27-36 hours minimumRealistic Estimate with practice: 40-50 hours
+**Total: 27-36 hours minimumRealistic Estimate with practice: 40-50 hours**
 
 **Technical Writer Training Cost:**
 
@@ -353,9 +345,9 @@ Learning will primarily be self-taught for various aspects of the custom tech st
 
 **Sources:**
 
-* Jekyll official site: [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)
-* Liquid for Designers: [https://shopify.github.io/liquid/](https://shopify.github.io/liquid/)
-* JustTheDocs documentation: [https://just-the-docs.com/](https://just-the-docs.com/)
+* Jekyll official site: https://jekyllrb.com/docs/
+* Liquid for Designers: https://shopify.github.io/liquid/
+* JustTheDocs documentation: https://just-the-docs.com/
 
 **Timeline Impact:** This 6-8 week learning period directly delays deploying the UIS prototype. GitBook eliminates this bottleneck entirely. The Technical Writer can begin creating content on Day 1.
 
@@ -367,11 +359,11 @@ Learning will primarily be self-taught for various aspects of the custom tech st
 * A replacement must invest another 40-50 hours in training
 * Risk of system abandonment if expertise is lost
 
-**With GitBook:** A new hire can be productive within days with minimal disruption. The familiar interface requires no specialized knowledge to maintain.
+**With GitBook**: A new hire can be productive within days with minimal disruption. The familiar interface requires no specialized knowledge to maintain.
 
 **Precedent:** MagTek's current support site continues using a proprietary CMS that no one internally can support, maintain, or update—a direct example of what happens when documentation platforms require specialized expertise.
 
-**Team Member Training Cost: The Multiplication Factor**
+Team Member Training Cost: The Multiplication Factor
 
 Once the Technical Writer is trained, comprehensive training materials must be created from scratch—no off-the-shelf resources exist for this custom implementation.
 
@@ -381,18 +373,17 @@ Once the Technical Writer is trained, comprehensive training materials must be c
 * Step-by-step instruction sheets
 * Troubleshooting guides
 * Reference documentation
-* Estimated time: 24 hours × $80/hr = $1,920
+* **Estimated time: 24 hours × $80/hr = $1,920**
 
 **For GitBook:** Simple screen recordings and basic guides suffice—the interface is self-explanatory.
 
-**Team Composition (11 users):**
+**Team Composition (10 users):**
 
 * 2 Developers
 * 3 QA/Test Engineers
 * 2 Marketing team members
 * 2 Support Team members
 * 1 Hardware Engineer Manager
-* 1 Project Manager
 
 **Jekyll Training Requirements**
 
@@ -401,23 +392,16 @@ Once the Technical Writer is trained, comprehensive training materials must be c
 | Materials Development                      | 24 hours         | 1           | $80/hr   | $1,920         |
 | Technical (developers)                     | 4 hours          | 2           | $100/hr  | $800           |
 | Semi-technical (QA)                        | 8 hours          | 3           | $65/hr   | $1,560         |
-| Non-technical (marketing/support/hardware) | 12 hours         | 4           | $60/hr   | $2,880         |
-| **Year 1 Training Total**                  |                  |             |          | **$7,160**     |
+| Non-technical (marketing/support/hardware) | 12 hours         | 3           | $60/hr   | $2,160         |
+| **Year 1 Training Total**                  |                  |             |          | **$6,440**     |
 
-**Total Year 1 Jekyll Training: $7,720 (including TW self-training: $3,600)**
-
-**Ongoing Training Years 2-3:** Per Nedal's feedback: "None engineers might require more training and might run into issues if they don't use enough (they will forget). Ideally, video training so people can reference later on."
-
-* Estimated 4 refresher sessions per year: 3 hours × $80/hr = $960
-* New user onboarding (3 users/year): 3 × 8 hours × $60/hr = $1,440
-* Years 2-3: $2,400/year
+**Total Year 1 Jekyll Training:** $7,324 (including TW self-training: $2,400 - conservative estimate)
 
 **GitBook Training**
 
-* 2 hours per user × 11 users × $50/hr average = $1,100
+* 2 hours per user × 10 users × $50/hr average = $1,000
 * Training material development: 4 hours × $80 = $320
-* Year 1: $1,420 (conservative estimate: $1,100)
-* Years 2-3: $500/year for new users and refreshers
+* Year 1: $1,320 (conservative estimate: $1,000)
 
 **Training Time Comparison:**
 
@@ -427,7 +411,7 @@ Once the Technical Writer is trained, comprehensive training materials must be c
 **Source for training complexity:**
 
 * **User feedback (Erik):** "Not at all \[intuitive]. Feels like doing web development... Do not like it. Too many steps."
-* **User feedback (Nedal):** "it needs more training" and "None engineers might require more training and might run into issues if they don't use enough (they will forget)"
+* **User feedback (Nedal):** "it needs more training" and "… engineers might require more training and might run into issues if they don't use enough (they will forget)"
 * **User feedback (Jay):** Confidence without training rated 1 for Jekyll vs 4 for GitBook; "steep learning curve with the syntax"
 
 **Appendix C: Implementation, Migration, and Production Speed Impact**
@@ -438,27 +422,27 @@ Once the Technical Writer is trained, comprehensive training materials must be c
 
 **Fixing a Typo:**
 
-* GitBook: Click edit → type correction → save (30 seconds)
-* Jekyll: Open Codespaces → navigate file tree → edit Markdown → commit → push → wait for rebuild (3-5 minutes)
+* **GitBook:** Click edit → type correction → save (30 seconds)
+* **Jekyll:** Open Codespaces → navigate file tree → edit Markdown → commit → push → wait for rebuild (3-5 minutes)
 * Speed multiplier: 6-10x slower
 
-**Creating a Table:**
+Creating a Table:
 
 * GitBook: Click table icon → add rows/columns → type content (2 minutes)
-* Jekyll: Write Markdown table syntax or HTML → adjust column widths in CSS → preview → debug alignment (10-15 minutes for complex tables)
-* Speed multiplier: 5-7x slower
+* **Jekyll:** Write Markdown table syntax or HTML → adjust column widths in CSS → preview → debug alignment (10-15 minutes for complex tables)
+* **Speed multiplier:** 5-7x slower
 
 **Adding an Image:**
 
-* GitBook: Drag and drop image → add caption (30 seconds)
-* Jekyll: Upload image to assets folder → write Markdown image syntax with path → adjust sizing in CSS (3-5 minutes)
-* Speed multiplier: 6-10x slower
+* **GitBook:** Drag and drop image → add caption (30 seconds)
+* **Jekyll:** Upload image to assets folder → write Markdown image syntax with path → adjust sizing in CSS (3-5 minutes)
+* **Speed multiplier:** 6-10x slower
 
 **Reorganizing Content:**
 
-* GitBook: Drag page to new location in sidebar tree (15 seconds)
-* Jekyll: Update YAML front matter (parent:, nav\_order:) in each affected file → update internal links → test navigation (10-20 minutes depending on scope)
-* Speed multiplier: 40-80x slower
+* **GitBook:** Drag page to new location in sidebar tree (15 seconds)
+* **Jekyll:** Update YAML front matter (parent:, nav\_order:) in each affected file → update internal links → test navigation (10-20 minutes depending on scope)
+* **Speed multiplier:** 40-80x slower
 
 **Daily Operations: The Friction Multiplier**
 
@@ -469,7 +453,7 @@ Once the Technical Writer is trained, comprehensive training materials must be c
 * Users must distinguish between content and markup syntax
 * Mental overhead increases cognitive load and slows writing
 * Error-prone: forgetting a closing tag breaks the entire page
-* **GitBook:** What you see is what you get. Zero syntax overhead
+* GitBook: What you see is what you get. Zero syntax overhead
 
 2. **Snippet Reuse**
 
@@ -506,7 +490,7 @@ Once the Technical Writer is trained, comprehensive training materials must be c
 * Must remember to run bundle exec jekyll s after idle shutdown
 * Permission issues still occur (documented in Paul's walkthrough)
 * Wait time for environment to spin up
-* **GitBook:** No environment setup—click and start working
+* GitBook: No environment setup—click and start working
 
 **Migration Speed Impact**
 
@@ -540,20 +524,18 @@ Once the Technical Writer is trained, comprehensive training materials must be c
 **Impact on Daily Operations:**
 
 * **Scenario:** Technical Writer spends 4 hours/day on documentation
-* **GitBook:** 4 productive hours
+* **GitBook**: 4 productive hours
 * **Jekyll:** 4 hours ÷ 3 (slowdown factor) = 1.3 productive hours
 * **Lost productivity:** 2.7 hours/day = 13.5 hours/week = 54 hours/month
 
 **Monthly Cost of Slowdown:**
 
 * 54 hours × $80/hr = $4,320/month
-* **Annual cost:** $51,840
+* Annual cost: $51,840
 
-Even at a conservative 2x slowdown factor:
+**Even at a conservative 2x slowdown factor:**
 
 * 2 hours/day lost × 20 days × $80/hr = $3,200/month = $38,400/year
-
-**This productivity loss alone exceeds Jekyll's 3-year total cost savings of $67,573 within 2 years.**
 
 **Speed Summary**
 
@@ -572,25 +554,25 @@ Even at a conservative 2x slowdown factor:
 
 **Low to Moderate Risk Profile:**
 
-1. **Vendor lock-in (Low)**
+1. **Vendor lock-in** (Low)
 
 * Mitigated by Markdown export capability
 * Content remains portable
 * Can migrate to other platforms if needed
 
-2. **Price increases (Low-Moderate)**
+2. **Price increases** (Low-Moderate)
 
 * Standard SaaS risk but predictable
 * Annual contracts provide cost stability
 * Competitive market keeps pricing reasonable
 
-3. **Feature limitations (Low)**
+3. **Feature limitations** (Low)
 
 * Current feature set exceeds requirements
 * Regular updates add functionality
 * Extensible via API and integrations
 
-4. **Service outages (Low)**
+4. **Service outages** (Low)
 
 * 99.9% uptime SLA
 * Minimal business impact (documentation is reference material, not mission-critical real-time system)
@@ -600,42 +582,41 @@ Even at a conservative 2x slowdown factor:
 
 **High Risk Profile:**
 
-1. **User adoption failure (High)**
+1. **User adoption failure** (High)
 
 * Non-technical users may resist complex workflows
 * 77.8% of users prefer GitBook—forcing Jekyll risks active resistance
 * Training may not stick with infrequent users (Nedal's concern confirmed)
 * Potential reversion to Word documents if friction is too high
 
-2. **Slowdown in implementation and production (High)**
+2. **Slowdown in implementation and production** (High)
 
 * 8-week delay to first value vs. GitBook
 * 3-5x slower daily operations compounds over time
 * Migration timeline extends from 4-6 weeks to 10-14 weeks
 * Directly conflicts with Nedal's speed requirement
 
-3. **Training burden (High)**
+3. **Training burden** (High)
 
-* Initial: $7,720 vs. $1,100 for GitBook
-* Ongoing: $2,400/year vs. $500/year
+* Initial: $7,324 vs. $1,000 for GitBook
 * Infrequent users forget procedures (documented by Nedal and validated by Jay's low confidence rating)
 * Requires continuous reinvestment in training
 
-4. **Technical debt accumulation (Moderate-High)**
+4. **Technical debt accumulation** (Moderate-High)
 
 * Dependency updates (Ruby gems, Jekyll versions)
 * Security patches require testing
 * Compatibility issues between components
 * Requires 27 hours/month maintenance vs. 6 hours for GitBook
 
-5. **Key person dependency (High)**
+5. **Key person dependency** (High)
 
 * Technical Writer becomes single point of failure
 * Departure creates knowledge vacuum
 * Replacement requires 40-50 hour ramp-up
 * Precedent: Current support site abandoned due to lost expertise
 
-6. **Implementation abandonment (Moderate)**
+6. **Implementation abandonment** (Moderate)
 
 * If early adoption fails, significant sunk costs
 * Team may refuse to use system
@@ -702,7 +683,6 @@ Even at a conservative 2x slowdown factor:
 * Jay's confidence rating: 1 out of 5 for using Jekyll without training
 * Demonstrated 4.6 vs. 2.8 average rating for basic typo fixes
 * Unanimous preference for WYSIWYG editing among non-technical users
-* Nedal's explicit requirement for speed: "get something up relatively fast"
 
 **Migration Path and Future State**
 
@@ -712,7 +692,7 @@ Both platforms enable the strategic goal of browser-based documentation. However
 
 * **Week 2:** Platform operational, users trained
 * **Week 2-6:** Aggressive migration of first sections of Programmer's Manual
-* **Month 2**: Demonstrate working system
+* **Month 2:** Demonstrate working system
 * **Month 3+:** Team independently creating and maintaining content
 * Content creators focus on content, not coding
 * Marketing, QA, and support teams contribute directly
@@ -737,21 +717,17 @@ Larry's vision of "multiple browser windows" with easy linking and bookmarking i
 
 **GitBook Costs**
 
-**Licensing**:
+**Licensing:**
 
 * Platform license (fixed): $3,000/year
-* Team member seats: 11 active users × $12/month × 12 months = $1,584/year
-* **Total: $4,584/year**
+* Team member seats: 10 active users × $12/month × 12 months = $1,440/year
+* **Total: $4,440/year**
 
-**Initial Training**:
+**Initial Training:**
 
 * Training materials: 4 hours × $80/hr = $320
-* User training: 2 hours × 11 users × average $50/hr = $1,100
-* **Total: $1,420** (conservative estimate: $1,100)
-
-**Ongoing Training**: New user onboarding, refreshers
-
-* Year 2-3: 2-3 sessions × 2 hours × $80/hr = $500/year
+* User training: 2 hours × 10 users × average $50/hr = $1,000
+* **Total: $1,320** (conservative estimate: $1,000)
 
 **Maintenance** (6 hours/month):
 
@@ -764,98 +740,77 @@ Larry's vision of "multiple browser windows" with easy linking and bookmarking i
 
 **Jekyll Costs**
 
-**Codespaces**:
+**Licensing & Third-Party Services: $2,500/year**
 
-* 11 users × 20 hours/month average × $0.18/hour = $39.60/month
-* **Annual: $475**
-* _Note: Based on GitHub's 2-core machine pricing; actual usage may vary_
+This estimate represents the midpoint between:
 
-**Initial Training**:
+* Low-End (Open Source/Freemium): Severe limitations, multiple points of failure, high engineering labor costs
+* High-End (Managed SaaS + Custom Dev): $2,500+/year plus undefined custom development costs
 
-* Technical Writer self-training: 45 hours × $80/hr = $3,600
+The $2,500 includes:
+
+* Managed hosting infrastructure
+* Advanced search capabilities
+* Page-level access control and audit trails
+* Integrated analytics
+* Future AI integration capabilities
+* Management of 4-5 separate vendor subscriptions and technical integrations
+
+_Note: This cost does not include Codespaces ($432/year), which is covered separately in the development environment budget._
+
+**Initial Training:**
+
+* Technical Writer self-training: 30 hours × $80/hr = $2,400 (conservative estimate)
 * Training materials development: 24 hours × $80/hr = $1,920
 * Developer training: 2 users × 4 hours × $100/hr = $800
 * QA training: 3 users × 8 hours × $65/hr = $1,560
-* Non-technical training: 4 users × 12 hours × $60/hr = $2,880
-* **Total: $10,760** (conservative estimate: $7,720)
+* Non-technical training: 3 users × 12 hours × $60/hr = $2,160
+* **Total: $8,840** (conservative estimate: $7,324)
 
-**Ongoing Training**:
-
-* 4 refresher sessions/year × 3 hours × $80/hr = $960
-* New user onboarding: 3 users/year × 8 hours × $60/hr = $1,440
-* **Annual Years 2-3: $2,400**
-
-**Maintenance** (27 hours/month):
+**Maintenance**(27 hours/month):
 
 * Dependency updates (Ruby, gems): 4 hours
 * Security patches: 2 hours
 * CI/CD pipeline maintenance: 2 hours
-* Codespaces optimization: 2 hours
+* Third-party service integration: 2 hours
 * Git repository management: 2 hours
 * User support/troubleshooting: 12 hours (high due to complexity)
 * Template updates: 3 hours
-* **Monthly: 27 hours × $80/hr = $2,160**
-* **Annual: $25,920**
+* Monthly: 27 hours × $80/hr = $2,160
+* Annual: $25,920
 
-\*\*Note:\*\*All hourly rates are conservative estimates based on industry standards and internal salary equivalents.
+**Note:** All hourly rates are conservative estimates based on industry standards and internal salary equivalents.
 
-**Nedal's Primary Objection**: GitBook is "too expensive" at $6,168 vs. Jekyll at $2,500.
-
-**Cost Reality Check**
-
-**The $6,168 figure is based on full team access**:
-
-* Fixed platform license: $3,000/year
-* 22 team members × $12/month × 12 months = $3,168/year
-* **Total: $6,168/year**
-
-**Actual cost optimization strategies:**
-
-1. **Limit active editors** (Recommended)
-
-* Fixed platform license: $3,000/year
-* 11 active contributors: $1,584/year
-* **Total: $4,584/year** (saves $1,584 annually)
-* Add Marketing/Support as needed
-* Read-only access is free—unlimited viewers
-
-2. **Start small, scale up**
-
-* Begin with 5-6 core users: $3,720-$3,864/year
-* Add users as adoption proves value
-* Demonstrate ROI before full commitment
-
-**Even at the full $6,168 estimate, GitBook costs $27,947 less than Jekyll in Year 1.**
+**Appendix G: Addressing Cost Concerns**
 
 **Investment vs. Expense Framing**
 
-**Jekyll's "$3,668 savings" (using 11-user GitBook cost)** is not actually savings:
+**Jekyll's "$1,940 savings"** is not actually savings:
 
-| **Item**                                 | **Jekyll "Savings"** | **Actual Jekyll Costs** | **Net Position** |
-| ---------------------------------------- | -------------------- | ----------------------- | ---------------- |
-| Licensing savings vs. GitBook (11 users) | +$4,109              |                         | +$4,109          |
-| Additional training                      |                      | -$6,620                 | -$2,511          |
-| Additional maintenance                   |                      | -$20,160                | -$22,671         |
-| Codespaces costs                         |                      | -$475                   | -$23,146         |
-| Productivity losses (conservative)       |                      | -$19,200                | **-$42,346**     |
+| Item                               | Jekyll "Savings" | Actual Jekyll Costs | Net Position |
+| ---------------------------------- | ---------------- | ------------------- | ------------ |
+| Licensing savings vs. GitBook      | +$1,940          |                     | +$1,940      |
+| Additional training                |                  | -$6,324             | -$4,384      |
+| Additional maintenance             |                  | -$20,160            | -$24,544     |
+| Productivity losses (conservative) |                  | -$19,200            | -$43,744     |
 
-**Jekyll doesn't save money—it costs $42,346 more in Year 1.**
+**Jekyll doesn't save money—it costs $43,744 more in Year 1.**
 
-**For every $1 "saved" on Jekyll licensing, you spend $5.52 on additional operational costs.**
+**For every $1 "saved" on Jekyll licensing, you spend $13.65 on additional operational costs.**
 
-**GitBook is not an expense—it's an investment** that:
+**GitBook is not an expense—it's an investment that:**
 
-* Saves $58,573 over 3 years in operating costs (11-user scenario)
+* Saves $24,544 in Year 1 operating costs
 * Saves $38,400-$51,840 annually in productivity
 * Enables 8 weeks faster time-to-value
 * Reduces implementation risk
 * Ensures sustainable operations
 
-**From a financial perspective**: Investing $4,584-$6,168 annually to save $58,573 in operational costs (plus $38,000+ in productivity) is sound business judgment.
+**From a financial perspective:** Investing $4,440 annually to save $24,544 in operational costs (plus $38,000+ in productivity) is sound business judgment.
 
-**From an operational perspective**: People want to write documentation, not code. They want to fix typos in 30 seconds, not 5 minutes. They want to add tables with clicks, not syntax.
+**From an operational perspective:** People want to write documentation, not code. They want to fix typos in 30 seconds, not 5 minutes. They want to add tables with clicks, not syntax.
 
-**From a strategic perspective:** We need a system prototype in weeks, not months. GitBook delivers that. Jekyll doesn't.
+**From a strategic perspective:** Time to value is measured in weeks, not months.
 
 **Appendix H: Final Recommendation**
 
@@ -863,47 +818,45 @@ Larry's vision of "multiple browser windows" with easy linking and bookmarking i
 
 **Rationale Summary**
 
-**1. Speed Alignment with Business Requirements**
+1. Speed Alignment with Business Requirements
 
-* **Speed Requirement**: Need a system prototype up in weeks, not months
-* **GitBook timeline**: 2-3 weeks to first value
-* **Jekyll timeline**: 10+ weeks to first value
-* **Impact**: 8-week difference in launching prototype
-* **Daily operations**: GitBook 3-5x faster for common tasks
-* **User proficiency**: GitBook 2-4 hours, Jekyll 4-12 hours
+* **Speed requirement**
+* **GitBook timeline:** 2-3 weeks to first value
+* **Jekyll timeline:** 10+ weeks to first value
+* I**mpact:** 8-week difference in launching prototype
+* **Daily operations:** GitBook 3-5x faster for common tasks
+* **User proficiency:** GitBook 2-4 hours, Jekyll 4-12 hours
 
-**2. User Preference is Overwhelming**
+2. **User Preference is Overwhelming**
 
 * 77.8% of participants prefer or lean toward GitBook
 * Only 11.1% recommend Jekyll, driven solely by cost concerns
 * Non-technical users show decisive 7:1 preference
 * Even technical users acknowledge GitBook's superior accessibility and speed
-* **Jay Guevara's perspective**: Rated Jekyll 1-2 for intuitiveness and confidence; GitBook "looks and feel like Microsoft Word"
+* **Jay Guevara's perspective:** Rated Jekyll 1-2 for intuitiveness and confidence; GitBook "looks and feesl like Microsoft Word"
 
-**3. Total Cost of Ownership Decisively Favors GitBook**
+3. **Total Cost of Ownership Decisively Favors GitBook**
 
-* **Year 1**: GitBook costs **$22,671 less** than Jekyll
-* **3-Year**: GitBook costs **$58,573 less** than Jekyll
-* The "$4,109 annual savings" with Jekyll is a false economy
-* Every dollar saved in licensing costs **$5.52 in implementation and support**
+* **Year 1:** GitBook costs $24,544 less than Jekyll
+* The "$1,940 annual savings" with Jekyll is a false economy
+* Every dollar saved in licensing costs **$13.65 in implementation and support**
 * Productivity losses from slower operations add $38,400-$51,840 annually
 
-**4. Implementation Risk is Substantially Lower**
+4. **Implementation Risk is Substantially Lower**
 
 * Much faster ramp-up: weeks vs. months
-* Minimal training investment: $1,100 vs. $7,720
-* Lower ongoing training: $500/year vs. $2,400/year
+* Minimal training investment: $1,000 vs. $7,324
 * Minimal maintenance: 6 hours/month vs. 27 hours/month
 * No single point of failure dependency
 
-**5. Strategic Alignment with Organizational Needs**
+5. **Strategic Alignment with Organizational Needs**
 
 * Moving from unwieldy Word doc requires maximum accessibility and speed
 * Team lacks technical documentation infrastructure experience
 * Non-technical users (QA, test, marketing, support, hardware) must contribute
 * Cannot afford prolonged implementation or adoption failure
 
-**6. Operational Sustainability**
+6. **Operational Sustainability**
 
 * GitBook requires minimal technical expertise to maintain
 * Jekyll creates key-person dependency and technical debt
@@ -915,17 +868,42 @@ Larry's vision of "multiple browser windows" with easy linking and bookmarking i
 
 **Cost & Financial Questions**
 
-**Q: Where did the $91,705 three-year cost for Jekyll come from?**
+**Q: Where did the $35,744 Year 1 cost for Jekyll come from?**
 
-A: This is the sum of all Jekyll operational costs over 3 years:
+A: This is the sum of all Jekyll Year 1 operational costs:
 
-* Codespaces: $1,425 (3 years × $475/year)
-* Initial training: $7,720 (Year 1 only)
-* Ongoing training: $4,800 (Years 2-3 × $2,400/year)
-* Maintenance: $77,760 (3 years × $25,920/year)
-* **Total: $91,705**
+* Licensing & third-party services: $2,500
+* Initial training: $7,324
+* Maintenance: $25,920
+* **Total: $35,744**
 
 See "Total Cost of Ownership Analysis" section for detailed breakdown.
+
+**Q: What's included in the $2,500 Jekyll licensing cost?**
+
+A: The $2,500 represents a realistic estimate to achieve feature parity with GitBook, covering:
+
+The estimate represents the midpoint between:
+
+* **Low-End (Open Source/Freemium):** $0-500/year but with severe limitations, multiple points of failure, and all setup/maintenance costs shifted to engineering labor
+* **High-End (Managed SaaS + Custom Dev):** $2,500+/year plus undefined custom development costs for permissions and integrations
+
+What's included in the $2,500:
+
+* **Advanced search capabilities:** Enterprise search functionality beyond basic Jekyll search
+* **Page-level access control & audit trails:** Role-based permissions and change tracking
+* **Managed hosting infrastructure:** Reliable hosting with SLA guarantees
+* **Integrated analytics:** Usage tracking and documentation metrics
+* **Future AI integration:** Capabilities for AI-powered search and content assistance
+* **Vendor management:** Coordination of 4-5 separate service subscriptions and their technical integrations
+
+**What's NOT included:**
+
+* Codespaces ($432/year) - covered in development environment budget
+* Custom development costs for complex permission systems
+* Engineering time for service integration and maintenance
+
+This fragmented vendor landscape requires ongoing management overhead and creates potential integration challenges, whereas GitBook provides all these capabilities in a single, integrated platform.
 
 **Q: Where did the $25,920 annual operational/maintenance cost for Jekyll come from?**
 
@@ -936,7 +914,7 @@ A: Based on 27 hours/month of required maintenance activities:
 | Dependency updates (Ruby gems, Jekyll versions) | 4               | $320             |
 | Security patches testing & deployment           | 2               | $160             |
 | CI/CD pipeline maintenance                      | 2               | $160             |
-| Codespaces environment optimization             | 2               | $160             |
+| Third-party service integration                 | 2               | $160             |
 | Git repository management                       | 2               | $160             |
 | User support/troubleshooting                    | 12              | $960             |
 | Template updates & fixes                        | 3               | $240             |
@@ -947,17 +925,16 @@ User support requires 12 hours/month due to:
 
 * Jekyll's code-based complexity (Erik: "Too many steps, too hard to edit")
 * Infrequent users forgetting procedures (Nedal's documented concern)
-* Codespaces environment issues (documented in Paul's walkthrough)
 * Git workflow confusion for non-technical users
 * Markdown/Liquid syntax errors
 
 All calculations use $80/hour technical support rate.
 
-**Q: Where did the $38,400-$51,840 productivity loss figure come from?**
+Q: **Where did the $38,400-$51,840 productivity loss figure come from?**
 
 A: Based on demonstrated 2-5x slowdown in daily documentation operations:
 
-**Conservative estimate (2x slowdown)**:
+**Conservative estimate (2x slowdown):**
 
 * Technical Writer works 4 hours/day on documentation
 * Jekyll slowdown: 4 hours ÷ 2 = 2 productive hours
@@ -965,34 +942,34 @@ A: Based on demonstrated 2-5x slowdown in daily documentation operations:
 * Monthly cost: 40 hours × $80/hr = **$3,200/month**
 * **Annual: $38,400**
 
-**Realistic estimate (3x slowdown)**:
+**Realistic estimate (3x slowdown):**
 
 * Lost time: 2.67 hours/day × 20 workdays/month = 54 hours/month
 * Monthly cost: 54 hours × $80/hr = **$4,320/month**
-* **Annual: $51,840**
+* Annual: $**51,840**
 
-Slowdown factors documented in "Time-to-Productivity Comparison" section:
+**Slowdown factors documented in "Time-to-Productivity Comparison" section:**
 
 * Typo fixes: 6-10x slower
 * Table creation: 5-7x slower
 * Content reorganization: 40-80x slower
 * Average across common tasks: 3-5x slower
 
-**Q: How do you calculate $5.52 spent for every dollar saved on Jekyll licensing?**
+**Q: How do you calculate $13.65 spent for every dollar saved on Jekyll licensing?**
 
-A: Year 1 comparison using 11-user GitBook scenario:
+A: Year 1 comparison:
 
-**Jekyll licensing "savings"**: $4,584 - $475 = **$4,109**
+**Jekyll licensing "savings": $4,440 - $2,500 = $1,940**
 
-**Jekyll additional costs**:
+**Jekyll additional costs:**
 
-* Extra training: $7,720 - $1,100 = $6,620
+* Extra training: $7,324 - $1,000 = $6,324
 * Extra maintenance: $25,920 - $5,760 = $20,160
-* **Total additional: $26,780**
+* **Total additional: $26,484**
 
-**Calculation**: $26,780 ÷ $4,109 = **6.52:1 ratio**
+**Calculation:** $26,484 ÷ $1,940 = **13.65:1 ratio**
 
-For every $1 saved on licensing, Jekyll costs $6.52 in additional operational expenses—before accounting for productivity losses.
+For every $1 saved on licensing, Jekyll costs $13.65 in additional operational expenses—before accounting for productivity losses.
 
 **Q: Why is Jekyll maintenance 27 hours/month vs. 6 hours/month for GitBook?**
 
@@ -1003,9 +980,9 @@ A: Jekyll requires 21 additional hours/month due to:
 * Dependency management: Ruby gems, Jekyll version updates (4 hrs)
 * Security patch testing/deployment (2 hrs)
 * CI/CD pipeline troubleshooting (2 hrs)
-* Codespaces environment optimization (2 hrs)
+* Third-party service integration (2 hrs)
 * Git repository maintenance (2 hrs)
-* **Subtotal: 12 hours**
+* Subtotal: 12 hours
 
 **User support differential** (12 hrs for Jekyll vs. 2 hrs for GitBook):
 
@@ -1019,7 +996,7 @@ A: Jekyll requires 21 additional hours/month due to:
 
 * Jekyll requires YAML/Liquid template updates
 * GitBook uses visual template editor
-* **Additional: 1 hour**
+* Additional: 1 hour
 
 **Total additional Jekyll maintenance: 21 hours/month**
 
@@ -1048,7 +1025,7 @@ A: Jekyll timeline includes:
 * Weeks 5-6: Conduct team training sessions
 * Weeks 7-8: Team members practice and troubleshoot
 * Weeks 9-10: First successful content migration
-* **Total: 10+ weeks**
+* Total: 10+ weeks
 
 GitBook timeline:
 
@@ -1056,15 +1033,15 @@ GitBook timeline:
 * Days 2-5: Structure setup, template configuration
 * Week 2: Team training (2 hours each)
 * Week 3: Active content migration begins
-* **Total: 2-3 weeks**
+* Total: 2-3 weeks
 
 **Q: Can't developers just help non-technical users with Jekyll?**
 
 A: This creates three problems:
 
-1. **Developer time is expensive**: Developers at $100/hr helping non-technical users 2 hours/week = $10,400/year per developer
-2. **Developers don't want to be documentation support**: Erik explicitly warned Jekyll would be "a huge burden on developers"
-3. **Defeats the purpose**: Goal is enabling self-sufficient documentation contributors, not creating dependency on developers
+1. **Developer time is expensive:** Developers at $100/hr helping non-technical users 2 hours/week = $10,400/year per developer
+2. **Developers don't want to be documentation support:** Erik explicitly warned Jekyll would be "a huge burden on developers"
+3. **Defeats the purpose:** Goal is enabling self-sufficient documentation contributors, not creating dependency on developers
 
 GitBook eliminates this dependency through intuitive interface.
 
@@ -1108,7 +1085,7 @@ A: Simpler themes reduce some complexity but don't address core issues:
 
 * Still requires Markdown editing (vs. WYSIWYG)
 * Still requires Git workflow understanding
-* Still requires Codespaces environment
+* Still requires development environment
 * Still 3-5x slower for common operations
 * User feedback negative reactions were about Jekyll itself, not the theme
 
@@ -1135,8 +1112,7 @@ A: User feedback contradicts this:
 * Erik (FW Developer, moderate experience): Rated Jekyll 1/5, called it "a huge burden on developers"
 * Dave (FW Engineer, moderate experience): Preferred GitBook for ease of use
 * Even technically capable users recognize GitBook's efficiency advantages
-
-Developer preference is for tools that don't slow them down—GitBook is faster
+* Developer preference is for tools that don't slow them down—GitBook is faster
 
 **Q: What if only 2-3 people end up using the system regularly?**
 
@@ -1156,12 +1132,12 @@ Limited adoption with Jekyll wastes all training investment.
 
 A: This doubles costs and delays:
 
-* Spend $34,115 Year 1 on Jekyll (training + maintenance)
+* Spend $35,744 Year 1 on Jekyll (training + maintenance)
 * Lose 10+ weeks on implementation
-* If adoption fails, spend another $11,444 on GitBook
-* Re-train entire team (another $1,100)
+* If adoption fails, spend another $11,200 on GitBook
+* Re-train entire team (another $1,000)
 * Migrate content again
-* **Total: $46,659 spent, 6+ months lost**
+* Total: $47,944 spent, 6+ months lost
 
 Better to choose the right platform initially.
 
@@ -1169,12 +1145,12 @@ Better to choose the right platform initially.
 
 A: Start with core contributors:
 
-* 5-6 active users: $3,720/year ($3,000 license + $720 seats)
-* Basic training: $550-$650
+* 5-6 active users: $3,720-$3,864/year ($3,000 license + $720-$864 seats)
+* Basic training: $500-$600
 * Standard maintenance: $5,760
 * **Year 1 total: \~$10,000**
 
-Scale up as value is proven. Still cheaper than Jekyll Year 1 ($34,115).
+Scale up as value is proven. Still cheaper than Jekyll Year 1 ($35,744).
 
 **Q: What if GitBook raises prices significantly?**
 
@@ -1184,6 +1160,6 @@ A: Multiple mitigation options:
 * Content remains portable (Markdown export)
 * Competitive market (Notion, Confluence, etc.) limits price increases
 * Can migrate if economics change
-* Even at 50% price increase, still cheaper than Jekyll TCO
+* Even at 50% price increase, still far cheaper than Jekyll TCO
 
 Price risk is manageable.
