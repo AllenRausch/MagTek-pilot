@@ -168,7 +168,6 @@
       * [Unified Information System Document Approval Dashboard Prototype](docs/documentation-project/foundation-documents/unified-information-system-document-approval-dashboard-prototype.md)
       * [Unified Information System Doc Type & Audience Matrix](docs/documentation-project/foundation-documents/unified-information-system-doc-type-and-audience-matrix.md)
       * [Unified Information System Platform Evaluation - Criteria Definition](docs/documentation-project/foundation-documents/unified-information-system-platform-evaluation-criteria-definition.md)
-      * [Final Platform Recommendation](docs/documentation-project/foundation-documents/final-platform-recommendation.md)
     * [Playground](docs/documentation-project/playground/README.md)
       * [Secure Reader 5000 Quick Start Guide](docs/documentation-project/playground/secure-reader-5000-quick-start-guide.md)
       * [Secure Reader 5000 Technical Specifications](docs/documentation-project/playground/secure-reader-5000-technical-specifications.md)
