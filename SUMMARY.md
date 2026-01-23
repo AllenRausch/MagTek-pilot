@@ -1,6 +1,7 @@
 # Table of contents
 
 * [MagTek GitBooks Pilot](README.md)
+  * [Programmer's Manual Pilot](readme/programmers-manual-pilot.md)
 * [docs](docs/README.md)
   * [MagTek Docs](docs/index.md)
   * [ServiceStatus](docs/servicestatus/README.md)
