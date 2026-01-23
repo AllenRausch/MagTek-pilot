@@ -17,6 +17,7 @@
     * [Troubleshooting](readme/programmers-manual-pilot/troubleshooting.md)
     * [Appendices](readme/programmers-manual-pilot/appendices.md)
     * [API References](readme/programmers-manual-pilot/api-references.md)
+  * [Drafts Folder](readme/drafts-folder.md)
 * [docs](docs/README.md)
   * [MagTek Docs](docs/index.md)
   * [ServiceStatus](docs/servicestatus/README.md)
