@@ -26,6 +26,7 @@
       * [GitBook Demo Walkthrough](readme/uis-meta-documentation/playground/gitbook-demo-walkthrough.md)
   * [Snippet Libraries](readme/snippet-libraries/README.md)
     * [Device Feature Badges](readme/snippet-libraries/device-feature-badges.md)
+    * [Security Warnings](readme/snippet-libraries/security-warnings.md)
   * [Templates](readme/templates/README.md)
     * [Conceptual Overview Template](readme/templates/conceptual-overview-template.md)
     * [How To Guide Template](readme/templates/how-to-guide-template.md)
