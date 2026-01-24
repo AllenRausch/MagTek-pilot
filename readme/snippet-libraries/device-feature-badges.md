@@ -1,6 +1,6 @@
 # Device Feature Badges
 
-## Touch Screen Only
+## Var A: Touch Screen Only
 
 {% hint style="info" %}
 **📱 Touch Screen Required**
@@ -14,7 +14,7 @@ This feature is only available on devices with touchscreen capability.
 * DynaFlex II Go (with Touch)
 {% endhint %}
 
-## MSR Only
+## Var B: MSR Only
 
 {% hint style="info" %}
 **💳 Magnetic Stripe Reader Required**
@@ -27,30 +27,30 @@ This feature requires a device with MSR (Magnetic Stripe Reader) capability.
 * DynaFlex, DynaProx, DynaFlex II Go
 {% endhint %}
 
-## Contactless Only
+## Var C: Contactless Only
 
 {% include "../../.gitbook/includes/badge-var-c-contactless-nfc-required....md" %}
 
-## WLAN Only
+## Var D: WLAN Only
 
 {% include "../../.gitbook/includes/badge-var-d-wlan-wifi-requiredthis-f....md" %}
 
-## Bluetooth LE Only
+## Var E: Bluetooth LE Only
 
 {% include "../../.gitbook/includes/badge-var-e-bluetooth-le-requiredthi....md" %}
 
-## Banking Functions / PED Only
+## Var F: Banking Functions / PED Only
 
 {% include "../../.gitbook/includes/badge-var-f-banking-functions-ped-....md" %}
 
-## Barcode Reader Only
+## Var G: Barcode Reader Only
 
 {% include "../../.gitbook/includes/badge-var-g-barcode-reader-requiredt....md" %}
 
-## Display Only
+## Var H: Display Only
 
 {% include "../../.gitbook/includes/display-requiredthis-fe....md" %}
 
-## Multiple Requirements
+## Var I: Multiple Requirements
 
 {% include "../../.gitbook/includes/device-requirementsthis-fea....md" %}

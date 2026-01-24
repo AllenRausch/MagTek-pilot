@@ -1,5 +1,5 @@
 ---
-title: 🖥️ Display RequiredThis fe...
+title: '🖥️Badge: Var H: Display Only'
 ---
 
 {% hint style="info" %}

@@ -1,5 +1,5 @@
 ---
-title: Device RequirementsThis fea...
+title: 'Badge: Var I: Multiple Requirements'
 ---
 
 {% hint style="info" %}
