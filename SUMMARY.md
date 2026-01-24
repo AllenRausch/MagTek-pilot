@@ -34,7 +34,6 @@
     * [How To Guide Template](readme/templates/how-to-guide-template.md)
     * [Command Reference Template](readme/templates/command-reference-template.md)
     * [TLV Table Template](readme/templates/tlv-table-template.md)
-    * [TLV Table Template](readme/templates/tlv-table-template-1.md)
   * [Programmer's Manual Pilot](readme/programmers-manual-pilot/README.md)
     * [Getting Started](readme/programmers-manual-pilot/getting-started.md)
     * [Device Fundamentals](readme/programmers-manual-pilot/device-fundamentals.md)
