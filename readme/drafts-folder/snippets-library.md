@@ -1,30 +1,13 @@
 # Snippets library
 
-{% tabs %}
-{% tab title="Variation A: Touch Screen Only" %}
-{% hint style="info" %}
-**📱 Touch Screen Required**
+Snippets library
 
-This feature is only available on devices with touchscreen capability.
+Variation A: Touch Screen Only
 
-**Compatible Devices:**
+{% include "../../.gitbook/includes/var-a-touch-screen-only.md" %}
 
-* DynaFlex (with Touch)
-* DynaProx (with Touch)
-* DynaFlex II Go (with Touch)
-{% endhint %}
-{% endtab %}
 
-{% tab title="Variation B: MSR Only" %}
-{% hint style="info" %}
-**💳 Magnetic Stripe Reader Required**
 
-This feature requires a device with MSR (Magnetic Stripe Reader) capability.
+Variation B: MSR Only
 
-**Compatible Devices:**
-
-* All DynaFlex family devices with MSR
-* DynaFlex, DynaProx, DynaFlex II Go
-{% endhint %}
-{% endtab %}
-{% endtabs %}
+{% include "../../.gitbook/includes/var-b-msr-only.md" %}

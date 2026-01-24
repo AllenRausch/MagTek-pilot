@@ -1,12 +1,6 @@
-# Snippets library
-
-Snippets library
-
-Variation A: Touch Screen Only
-
-{% include "../../.gitbook/includes/variation-a-touch-screen.md" %}
-
-Variation B: MSR Only
+---
+title: '💳 Var B: MSR Only'
+---
 
 {% hint style="info" %}
 **💳 Magnetic Stripe Reader Required**

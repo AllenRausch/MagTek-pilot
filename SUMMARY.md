@@ -1,6 +1,7 @@
 # Table of contents
 
 * [MagTek GitBooks Pilot](README.md)
+  * [Snippet Libraries](readme/snippet-libraries.md)
   * [Templates](readme/templates/README.md)
     * [Conceptual Overview Template](readme/templates/conceptual-overview-template.md)
     * [How To Guide Template](readme/templates/how-to-guide-template.md)
@@ -23,7 +24,6 @@
     * [API References](readme/programmers-manual-pilot/api-references.md)
   * [Drafts Folder](readme/drafts-folder.md)
     * [Snippets library](readme/drafts-folder/snippets-library.md)
-    * [Snippets library](readme/drafts-folder/snippets-library-1.md)
     * [Snippets Test Page](readme/drafts-folder/snippets-test-page.md)
 * [docs](docs/README.md)
   * [MagTek Docs](docs/index.md)
