@@ -1,6 +1,10 @@
 # Table of contents
 
 * [MagTek GitBooks Pilot](README.md)
+  * [Templates](readme/templates/README.md)
+    * [Conceptual Overview Template](readme/templates/conceptual-overview-template.md)
+    * [How To Guide Template](readme/templates/how-to-guide-template.md)
+    * [Command Reference Template](readme/templates/command-reference-template.md)
   * [Programmer's Manual Pilot](readme/programmers-manual-pilot/README.md)
     * [Getting Started](readme/programmers-manual-pilot/getting-started.md)
     * [Device Fundamentals](readme/programmers-manual-pilot/device-fundamentals.md)
