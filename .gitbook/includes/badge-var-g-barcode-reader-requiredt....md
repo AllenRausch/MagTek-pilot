@@ -1,5 +1,5 @@
 ---
-title: '📷 Badge: Var G: Barcode Reader RequiredT...'
+title: 'Badge: Var G: Barcode Reader RequiredT...'
 ---
 
 {% hint style="info" %}

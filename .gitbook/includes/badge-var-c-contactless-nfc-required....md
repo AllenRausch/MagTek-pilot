@@ -1,5 +1,5 @@
 ---
-title: '📡Badge: Var C: Contactless/NFC Required...'
+title: 'Badge: Var C: Contactless/NFC Required...'
 ---
 
 {% hint style="info" %}

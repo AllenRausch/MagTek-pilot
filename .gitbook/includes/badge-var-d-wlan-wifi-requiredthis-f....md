@@ -1,5 +1,5 @@
 ---
-title: '📶 Badge: Var D: WLAN/WiFi RequiredThis f...'
+title: 'Badge: Var D: WLAN/WiFi RequiredThis f...'
 ---
 
 {% hint style="info" %}

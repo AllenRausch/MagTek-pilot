@@ -1,5 +1,5 @@
 ---
-title: '📱Badge: Var A: Touch Screen Only'
+title: 'Badge: Var A: Touch Screen Only'
 ---
 
 {% hint style="info" %}

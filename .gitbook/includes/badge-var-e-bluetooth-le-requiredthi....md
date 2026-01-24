@@ -1,5 +1,5 @@
 ---
-title: '📶 Badge: Var E: Bluetooth LE RequiredThi...'
+title: 'Badge: Var E: Bluetooth LE RequiredThi...'
 ---
 
 {% hint style="info" %}

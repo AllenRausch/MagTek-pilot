@@ -1,5 +1,5 @@
 ---
-title: '🏦 Badge: Var F: Banking Functions (PED) ...'
+title: 'Badge: Var F: Banking Functions (PED) ...'
 ---
 
 {% hint style="info" %}
