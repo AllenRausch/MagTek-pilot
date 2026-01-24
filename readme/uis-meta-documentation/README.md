@@ -1,2 +1,6 @@
-# Documentation Project
+---
+hidden: true
+---
+
+# UIS Meta-Documentation
 
