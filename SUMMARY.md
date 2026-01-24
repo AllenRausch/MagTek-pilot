@@ -25,7 +25,7 @@
       * [Secure Reader 6000 Update Notes](readme/uis-meta-documentation/playground/secure-reader-6000-update-notes.md)
       * [GitBook Demo Walkthrough](readme/uis-meta-documentation/playground/gitbook-demo-walkthrough.md)
   * [Snippet Libraries](readme/snippet-libraries/README.md)
-    * [Device Feature Badge Snippets Library](readme/snippet-libraries/device-feature-badge-snippets-library.md)
+    * [Device Feature Badges](readme/snippet-libraries/device-feature-badges.md)
   * [Templates](readme/templates/README.md)
     * [Conceptual Overview Template](readme/templates/conceptual-overview-template.md)
     * [How To Guide Template](readme/templates/how-to-guide-template.md)

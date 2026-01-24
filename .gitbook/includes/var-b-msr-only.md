@@ -1,5 +1,5 @@
 ---
-title: '💳 Var B: MSR Only'
+title: '💳 Badge: Var B: MSR Only'
 ---
 
 {% hint style="info" %}
