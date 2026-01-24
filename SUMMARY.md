@@ -28,6 +28,8 @@
     * [MagTek Internal Notices](readme/snippet-libraries/magtek-internal-notices.md)
     * [Device Feature Badges](readme/snippet-libraries/device-feature-badges.md)
     * [Security Warnings](readme/snippet-libraries/security-warnings.md)
+    * [Support Footers](readme/snippet-libraries/support-footers.md)
+    * [TLV Table Template](readme/snippet-libraries/tlv-table-template.md)
   * [Templates](readme/templates/README.md)
     * [Conceptual Overview Template](readme/templates/conceptual-overview-template.md)
     * [How To Guide Template](readme/templates/how-to-guide-template.md)
