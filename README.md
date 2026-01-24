@@ -4,6 +4,6 @@ metaLinks:
     - https://app.gitbook.com/s/2AwfWOGBWBxQmyvHedqW/
 ---
 
-# MagTek GotBooks Pilot
+# MagTek GitBook Pilot
 
-This is the pilot branch to test front-end GitBooks tools for GitHub
+This is the pilot branch to test front-end GitBook tools for GitHub

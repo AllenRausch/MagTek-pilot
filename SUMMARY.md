@@ -1,6 +1,6 @@
 # Table of contents
 
-* [MagTek GitBooks Pilot](README.md)
+* [MagTek GitBook Pilot](README.md)
   * [UIS Meta-Documentation](readme/uis-meta-documentation/README.md)
     * [Executive Summaries](readme/uis-meta-documentation/executive-summaries/README.md)
       * [UIS Strategic Principles & Evaluation Criteria](readme/uis-meta-documentation/executive-summaries/uis-strategic-principles-and-evaluation-criteria.md)
