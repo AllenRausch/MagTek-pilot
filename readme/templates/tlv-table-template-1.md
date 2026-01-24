@@ -1,6 +1,6 @@
 # TLV Table Template
 
-## Var A: Request Parameters Table
+Var A: Request Parameters Table
 
 #### Request Parameters (TLV Format)
 
@@ -37,7 +37,7 @@
 * All integer values should be in big-endian format
 * Text fields must be UTF-8 encoded
 
-## Var B: Response Parameters Table
+Var B: Response Parameters Table
 
 #### Response Parameters (TLV Format)
 
@@ -61,7 +61,7 @@
 
 **Status Code Reference:**
 
-See [Error Codes](/broken/pages/b6c2d5d66cc4511a3574b98f771215dc735c9b8d) for complete list of status detail codes.
+See [Error Codes](/broken/pages/ebd849f080b634f564a1517e2c39ffbfe5bd1914) for complete list of status detail codes.
 
 Var C: Detailed TLV Table with Examples
 
@@ -114,7 +114,7 @@ Var C: Detailed TLV Table with Examples
 * Bit 3: Enable Manual Entry
 * **Example:** `83 01 0F` = All readers enabled (0x0F = binary 00001111)
 
-## Var D: Empty TLV Table Template (for quick copy/paste)
+Var D: Empty TLV Table Template (for quick copy/paste)
 
 #### \[Request/Response] Parameters (TLV Format)
 
