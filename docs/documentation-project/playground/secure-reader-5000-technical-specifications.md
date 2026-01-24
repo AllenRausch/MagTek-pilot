@@ -2,8 +2,6 @@
 
 ## Electrical Specifications
 
-{% include "../../../.gitbook/includes/specifications-table.md" %}
-
 ## Physical Specifications
 
 | Property   | Value              |
