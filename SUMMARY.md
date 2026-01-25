@@ -16,6 +16,7 @@
       * [Unified Information System Document Approval Dashboard Prototype](readme/uis-meta-documentation/foundation-documents/unified-information-system-document-approval-dashboard-prototype.md)
       * [Unified Information System Doc Type & Audience Matrix](readme/uis-meta-documentation/foundation-documents/unified-information-system-doc-type-and-audience-matrix.md)
       * [Unified Information System Platform Evaluation - Criteria Definition](readme/uis-meta-documentation/foundation-documents/unified-information-system-platform-evaluation-criteria-definition.md)
+      * [Programmers Manual Breakup Plan notes](readme/uis-meta-documentation/foundation-documents/programmers-manual-breakup-plan-notes.md)
     * [Playground](readme/uis-meta-documentation/playground/README.md)
       * [Secure Reader 5000 Quick Start Guide](readme/uis-meta-documentation/playground/secure-reader-5000-quick-start-guide.md)
       * [Secure Reader 5000 Technical Specifications](readme/uis-meta-documentation/playground/secure-reader-5000-technical-specifications.md)
