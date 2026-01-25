@@ -45,13 +45,13 @@
 
 #### Journey 1: Complete Beginner
 
-1. Getting Started > Product Overview (Article 1) ↓
-2. Getting Started > Feature Comparison (Article 2) ↓
-3. Getting Started > Quick Start > USB (Article 3) ↓
-4. Integration Guide > Message Structure > Overview (Article 5) ↓
-5. Integration Guide > Message Structure > TLV Encoding (Article 6) ↓
-6. Transaction Processing > Your First Transaction (Article 8) ↓
-7. Commands Reference > 0x1001 (Article 9) - as reference
+1. Getting Started > Product Overview&#x20;
+2. Getting Started > Feature Comparison
+3. Getting Started > Quick Start > USB&#x20;
+4. Integration Guide > Message Structure > Overview
+5. Integration Guide > Message Structure > TLV Encoding&#x20;
+6. Transaction Processing > Your First Transaction&#x20;
+7. Commands Reference > 0x1001&#x20;
 
 #### Journey 2: Experienced Developer (just needs USB details)
 
