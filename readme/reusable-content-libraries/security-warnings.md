@@ -6,6 +6,8 @@ description: DO NOT ALTER THESE WARNINGS WITHOUT LEGAL CLEARANCE
 
 ### Var A: General Security Warning
 
+{% include "../../.gitbook/includes/security-var-a-general-security-warning.md" %}
+
 ### Var B: Key Management Warning
 
 {% include "../../.gitbook/includes/security-var-b-key-management-warning.md" %}
