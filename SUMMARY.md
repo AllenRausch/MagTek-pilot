@@ -65,6 +65,7 @@
         * [3.3.3 Response Messages](readme/programmers-manual/3.0-integration-guide/3.3-message-structure-and-protocol/3.3.3-response-messages.md)
         * [3.3.4 Notification Messages](readme/programmers-manual/3.0-integration-guide/3.3-message-structure-and-protocol/3.3.4-notification-messages.md)
         * [3.3.5 Multi-packet messages](readme/programmers-manual/3.0-integration-guide/3.3-message-structure-and-protocol/3.3.5-multi-packet-messages.md)
+        * [Understanding Message Structure (Overview)](readme/programmers-manual/3.0-integration-guide/3.3-message-structure-and-protocol/understanding-message-structure-overview.md)
       * [3.4 Data Types and Formats](readme/programmers-manual/3.0-integration-guide/3.4-data-types-and-formats.md)
     * [4.0 Transaction Processing](readme/programmers-manual/4.0-transaction-processing/README.md)
       * [4.1 EMV Transaction Workflows](readme/programmers-manual/4.0-transaction-processing/4.1-emv-transaction-workflows/README.md)
