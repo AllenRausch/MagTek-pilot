@@ -490,16 +490,19 @@ Different connection types may wrap messages differently, but the core structure
 
 **Important:** Regardless of connection type, the message structure (Type, Length, Payload) remains consistent. The connection layer handles transport; your application works with the message layer.
 
-### Best Practice&#x73;**✅ Recommended Practices:**
+### Best Practices
+
+### **Recommended Practices:**
 
 * **Always validate message length** before parsing to prevent buffer overruns
 * **Check status codes** in every response before processing data
 * **Implement asynchronous notification handling** - don't block waiting for them
 * **Buffer incoming notifications** if processing takes time
 * **Log messages during development** to understand communication patterns
-*   **Use timeouts** when waiting for responses (typically 5-30 seconds depending on operation)
+* **Use timeouts** when waiting for responses (typically 5-30 seconds depending on operation)**️**
 
-    <div data-gb-custom-block data-tag="hint" data-style="warning" class="hint hint-warning"><p><strong>⚠️ Common Pitfalls:</strong></p></div>
+### **Common Pitfalls:**
+
 * **Ignoring notifications** - your application must handle them or data will be lost
 * **Assuming immediate response** - some commands take time to execute
 * **Not handling multi-packet messages** - large data transfers will fail
