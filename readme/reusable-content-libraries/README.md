@@ -1,6 +1,6 @@
 ---
-hidden: true
+noIndex: true
 ---
 
-# Snippet Libraries
+# Reusable Content Libraries
 
