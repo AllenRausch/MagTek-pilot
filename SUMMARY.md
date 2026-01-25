@@ -60,7 +60,6 @@
         * [3.2.4 RS-232/UART Integration](readme/programmers-manual/3.0-integration-guide/3.2-connection-setup/3.2.4-rs-232-uart-integration.md)
         * [3.2.5 iAP Integration](readme/programmers-manual/3.0-integration-guide/3.2-connection-setup/3.2.5-iap-integration.md)
       * [3.3 Message Structure and Protocol](readme/programmers-manual/3.0-integration-guide/3.3-message-structure-and-protocol/README.md)
-        * [Understanding Message Structure (Overview)](readme/programmers-manual/3.0-integration-guide/3.3-message-structure-and-protocol/understanding-message-structure-overview.md)
         * [3.3.1 TLV Encoding](readme/programmers-manual/3.0-integration-guide/3.3-message-structure-and-protocol/3.3.1-tlv-encoding.md)
         * [3.3.2 Request Messages](readme/programmers-manual/3.0-integration-guide/3.3-message-structure-and-protocol/3.3.2-request-messages.md)
         * [3.3.3 Response Messages](readme/programmers-manual/3.0-integration-guide/3.3-message-structure-and-protocol/3.3.3-response-messages.md)
