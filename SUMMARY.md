@@ -30,6 +30,7 @@
     * [Device Feature Badges](readme/reusable-content-libraries/device-feature-badges.md)
     * [Security Warnings](readme/reusable-content-libraries/security-warnings.md)
     * [Support Footers](readme/reusable-content-libraries/support-footers.md)
+    * [Code Example Templates](readme/reusable-content-libraries/code-example-templates.md)
   * [Templates](readme/templates/README.md)
     * [Conceptual Overview Template](readme/templates/conceptual-overview-template.md)
     * [How To Guide Template](readme/templates/how-to-guide-template.md)
