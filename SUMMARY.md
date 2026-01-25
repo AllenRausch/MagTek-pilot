@@ -38,7 +38,7 @@
   * [Programmer's Manual](readme/programmers-manual/README.md)
     * [1.0 Getting Started](readme/programmers-manual/1.0-getting-started/README.md)
       * [1.1 Product Overview & Device Features](readme/programmers-manual/1.0-getting-started/1.1-product-overview-and-device-features.md)
-      * [1.2 Quick Start Guides (by device model)](readme/programmers-manual/1.0-getting-started/1.2-quick-start-guides-by-device-model/README.md)
+      * [1.2 Quick Start Guides (by device model)](readme/programmers-manual/1.0-getting-started/1.2-quick-start-guides-by-device-model.md)
         * [1.2.1 USB Connection - Quick Start Guide](readme/programmers-manual/1.0-getting-started/1.2-quick-start-guides-by-device-model/1.2.1-usb-connection-quick-start-guide.md)
       * [1.3 Feature Comparison Matrix](readme/programmers-manual/1.0-getting-started/1.3-feature-comparison-matrix.md)
       * [1.4 Glossary and Terminology](readme/programmers-manual/1.0-getting-started/1.4-glossary-and-terminology.md)
