@@ -349,9 +349,9 @@ Device will display "INSERT CARD"
 
 ## Variation E: Comparison Example (Right vs Wrong)
 
-#### Example: \[Concept] - Right Way vs Wrong Way
+### Example: Right Way vs Wrong Way
 
-**❌ Wrong Way**
+#### **Wrong Way**
 
 ```csharp
 // Don't do this - missing error handling and resource cleanup
@@ -368,7 +368,7 @@ var response = device.SendCommand(request);
 * No validation of response
 * Resource leak
 
-**✅ Right Way**
+#### **Right Way**
 
 ```csharp
 // Correct implementation with proper error handling
