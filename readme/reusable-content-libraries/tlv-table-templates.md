@@ -4,12 +4,6 @@
 
 #### Request Parameters (TLV Format)
 
-{% if  %}
-{% include "../../.gitbook/includes/untitled.md" %}
-{% endif %}
-
-{% include "../../.gitbook/includes/tlv-table-template-var-a-request-parameters-information-box.md" %}
-
 ***
 
 ## Var B: Response Parameters Table
@@ -18,17 +12,13 @@
 
 {% include "../../.gitbook/includes/tlv-table-template-var-b-response-parameters-table.md" %}
 
-{% include "../../.gitbook/includes/tlv-table-template-var-b-response-parameters-information-box.md" %}
-
 ***
 
 ## Var C: Detailed TLV Table with Examples
 
 #### Request Parameters (TLV Format)
 
-{% include "../../.gitbook/includes/tlv-table-template-var-c-request-parameters-i-tlv-format-table.md" %}
-
-{% include "../../.gitbook/includes/tlv-table-template-var-c-request-parameters-i-tlv-format-information-box.md" %}
+{% include "../../.gitbook/includes/tlv-table-template-var-c-detailed-tlv-table-with-examples.md" %}
 
 ***
 
@@ -37,6 +27,3 @@
 #### \[Request/Response] Parameters (TLV Format)
 
 {% include "../../.gitbook/includes/tlv-table-template-var-d-empty-tlv-table.md" %}
-
-{% include "../../.gitbook/includes/tlv-table-template-var-d-empty-tlv-table-ingormation-box.md" %}
-
