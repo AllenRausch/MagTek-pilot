@@ -83,6 +83,8 @@
       * [4.5 Apple VAS Integration](readme/programmers-manual/4.0-transaction-processing/4.5-apple-vas-integration.md)
       * [4.6 Google Smart Tap Integration](readme/programmers-manual/4.0-transaction-processing/4.6-google-smart-tap-integration.md)
       * [4.7 Barcode Reading](readme/programmers-manual/4.0-transaction-processing/4.7-barcode-reading.md)
+      * [4.8 Transaction Tutorials](readme/programmers-manual/4.0-transaction-processing/4.8-transaction-tutorials/README.md)
+        * [Your First Transaction: Complete Walkthrough](readme/programmers-manual/4.0-transaction-processing/4.8-transaction-tutorials/your-first-transaction-complete-walkthrough.md)
     * [5.0 Commands Reference](readme/programmers-manual/5.0-commands-reference/README.md)
       * [5.1 Command Overview](readme/programmers-manual/5.0-commands-reference/5.1-command-overview.md)
       * [5.2 Transaction Commands (0x10nn)](readme/programmers-manual/5.0-commands-reference/5.2-transaction-commands-0x10nn/README.md)
