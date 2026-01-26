@@ -23,12 +23,11 @@ EMV (Europay, Mastercard, Visa) transactions are more complex than traditional m
 
 #### **Device Requirements**
 
-EMV transaction processing requires:
+{% include "../../../../.gitbook/includes/var-b-msr-only.md" %}
 
-* **Contact EMV** - Chip card reader (all DynaFlex models with contact)
-* **Contactless EMV** - NFC reader (DynaFlex/DynaProx with contactless)
+{% include "../../../../.gitbook/includes/badge-var-j-emv-transaction-processing.md" %}
 
-Both transaction types follow similar workflows with slight variations.## What is an EMV Transaction?
+#### What is an EMV Transaction?
 
 An **EMV transaction** is a secure payment processed using a chip card (contact) or tap card/phone (contactless). Unlike magnetic stripe cards, EMV cards contain a microprocessor that performs cryptographic operations to verify the card's authenticity and generate unique transaction codes.
 
