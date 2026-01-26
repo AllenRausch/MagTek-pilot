@@ -91,7 +91,7 @@
         * [5.2.1 0x001 - Start Transaction](readme/programmers-manual/5.0-commands-reference/5.2-transaction-commands-0x10nn/5.2.1-0x001-start-transaction.md)
         * [5.2.2 0x1004 Resume Transaction](readme/programmers-manual/5.0-commands-reference/5.2-transaction-commands-0x10nn/5.2.2-0x1004-resume-transaction.md)
         * [5.2.3 0x1008 - Cancel Transaction](readme/programmers-manual/5.0-commands-reference/5.2-transaction-commands-0x10nn/5.2.3-0x1008-cancel-transaction.md)
-        * [5.2.4 0xD101: Get Property](readme/programmers-manual/5.0-commands-reference/5.2-transaction-commands-0x10nn/5.2.4-0xd101-get-property.md)
+        * [5.2.4 0xD101: Get Property](readme/programmers-manual/5.0-commands-reference/5.2-transaction-commands-0x10nn/5.2.4-others.md)
       * [5.3 NFC/MIFARE Pass-Through Commands (0x11nn)](readme/programmers-manual/5.0-commands-reference/5.3-nfc-mifare-pass-through-commands-0x11nn.md)
       * [5.4 User Interface Commands (0x18nn)](readme/programmers-manual/5.0-commands-reference/5.4-user-interface-commands-0x18nn.md)
       * [5.5 Device Control Commands (0x1Fnn)](readme/programmers-manual/5.0-commands-reference/5.5-device-control-commands-0x1fnn.md)
