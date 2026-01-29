@@ -1,2 +1,0 @@
-# DynaProx Installation
-

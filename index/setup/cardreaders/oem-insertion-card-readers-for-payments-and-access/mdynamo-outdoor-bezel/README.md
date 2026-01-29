@@ -1,2 +1,0 @@
-# mDynamo Outdoor Bezel
-

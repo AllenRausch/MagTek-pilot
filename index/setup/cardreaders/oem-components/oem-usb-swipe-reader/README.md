@@ -1,2 +1,0 @@
-# OEM USB Swipe Reader
-
