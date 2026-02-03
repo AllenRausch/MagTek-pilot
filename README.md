@@ -19,7 +19,9 @@ layout:
 
 This will eventually be the landing page for the Support home page and it will mirror the one on the official Web site.
 
-## Welcome to the MagTek Support site!&#x20;
+<h2 align="center">Welcome to the MagTek Support site! </h2>
+
+<h4 align="center">How can we help? </h4>
 
 ### Common Programming and Development Tasks
 
@@ -37,11 +39,9 @@ This will eventually be the landing page for the Support home page and it will m
 {% endcolumn %}
 {% endcolumns %}
 
-### Code Samples and Demos
-
 {% columns %}
 {% column %}
-<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>QwikCards Status</td><td><a href="https://magensa.statuspage.io/">https://magensa.statuspage.io/</a></td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>QwikCards Status</td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td></tr></tbody></table>
 {% endcolumn %}
 
 {% column %}
