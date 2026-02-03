@@ -39,6 +39,8 @@ This will eventually be the landing page for the Support home page and it will m
 {% endcolumn %}
 {% endcolumns %}
 
+### Status Pages and MagTek Apps
+
 {% columns %}
 {% column %}
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>QwikCards Status</td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td><td><a href="https://qwickcards.statuspage.io/">https://qwickcards.statuspage.io/</a></td></tr></tbody></table>
