@@ -40,12 +40,8 @@ This will eventually be the landing page for the Support home page and it will m
 ### Code Samples and Demos
 
 {% columns %}
-{% column width="33.33333333333333%" %}
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>These demos show how to communicate with Secure Card Reader Authenticator (SCRA) devices using Web HID with Chromium Desktop Browsers</td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td><td><a href="https://magtek.gitbook.io/magtek-pilot-gitbooks/programmers-manual/readme/programmers-manual/1.0-getting-started/1.1-product-overview-and-device-features">https://magtek.gitbook.io/magtek-pilot-gitbooks/programmers-manual/readme/programmers-manual/1.0-getting-started/1.1-product-overview-and-device-features</a></td></tr></tbody></table>
-{% endcolumn %}
-
 {% column %}
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>MagTek Reader Management System is a suite of apps and source code that automates the ability to configure and update MagTek readers.</td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td><td><a href="https://magtek.gitbook.io/magtek-pilot-gitbooks/programmers-manual/readme/programmers-manual/1.0-getting-started/1.2-quick-start-guides-by-device-model/1.2.1-usb-connection-quick-start-guide">https://magtek.gitbook.io/magtek-pilot-gitbooks/programmers-manual/readme/programmers-manual/1.0-getting-started/1.2-quick-start-guides-by-device-model/1.2.1-usb-connection-quick-start-guide</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>QwikCards Status</td><td><a href="https://magensa.statuspage.io/">https://magensa.statuspage.io/</a></td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td></tr></tbody></table>
 {% endcolumn %}
 
 {% column %}
@@ -53,7 +49,7 @@ This will eventually be the landing page for the Support home page and it will m
 {% endcolumn %}
 
 {% column %}
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>SwikCards Status</td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Download MagTek Apps</td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td><td><a href="https://www.magtek.com/services/software-applications/list">https://www.magtek.com/services/software-applications/list</a></td></tr></tbody></table>
 {% endcolumn %}
 {% endcolumns %}
 
