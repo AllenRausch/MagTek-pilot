@@ -94,3 +94,5 @@ This will eventually be the landing page for the Support home page and it will m
 {% endcolumns %}
 
 ### For more help
+
+{% include ".gitbook/includes/footer-var-a-standard-support-footer.md" %}
