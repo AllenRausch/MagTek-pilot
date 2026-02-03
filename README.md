@@ -41,11 +41,11 @@ This will eventually be the landing page for the Support home page and it will m
 
 {% columns %}
 {% column %}
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>QwikCards Status</td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>QwikCards Status</td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td><td><a href="https://qwickcards.statuspage.io/">https://qwickcards.statuspage.io/</a></td></tr></tbody></table>
 {% endcolumn %}
 
 {% column %}
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Magensa Status</td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Magensa Status</td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td><td><a href="https://magensa.statuspage.io/">https://magensa.statuspage.io/</a></td></tr></tbody></table>
 {% endcolumn %}
 
 {% column %}
