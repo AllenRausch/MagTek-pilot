@@ -1,18 +1,6 @@
 ---
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
+cover: .gitbook/assets/645d63a6db75c56cadf2adda8f6333c5.png
+coverY: 0
 ---
 
 # MagTek Support Home
