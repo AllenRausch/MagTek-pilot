@@ -1,87 +1,48 @@
 ---
 cover:
-  light: .gitbook/assets/GitBookHeader_LightMode.jpg
-  dark: .gitbook/assets/GitBookHeader_DarkMode.jpg
+  light: .gitbook/assets/Home-Page-Hero_v2.png
+  dark: .gitbook/assets/Home-Page-Hero_v2.png
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # MagTek Support Home
 
 This will eventually be the landing page for the Support home page and it will mirror the one on the official Web site.
 
-<h2 align="center">Welcome to the MagTek Support site! </h2>
+<h2 align="center"><mark style="color:$primary;">Welcome to the MagTek Support site!</mark> </h2>
 
 <h4 align="center">How can we help? </h4>
 
-### Common Programming and Development Tasks
+### <mark style="color:$primary;">Status Pages and MagTek Apps</mark>
 
-{% columns %}
-{% column width="33.33333333333333%" %}
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><p>"I want to..."</p><p> Figure out which device I have</p></td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td><td><a href="https://magtek.gitbook.io/magtek-pilot-gitbooks/hardware/index/dynafamily-programmers-manual/1.0-getting-started/1.1-product-overview-and-device-features">https://magtek.gitbook.io/magtek-pilot-gitbooks/hardware/index/dynafamily-programmers-manual/1.0-getting-started/1.1-product-overview-and-device-features</a></td></tr></tbody></table>
-{% endcolumn %}
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:$primary;"><strong>Magensa Status ></strong></mark></td><td><a href="https://magensa.statuspage.io/">https://magensa.statuspage.io/</a></td></tr><tr><td><a href="https://qwickcards.statuspage.io/"><mark style="color:$primary;"><strong>QwikCards Status ></strong></mark></a></td><td></td></tr></tbody></table>
 
-{% column width="33.33333333333333%" %}
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><p>"I want to..."</p><p> Connect via USB...</p></td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td><td><a href="https://magtek.gitbook.io/magtek-pilot-gitbooks/hardware/index/dynafamily-programmers-manual/3.0-integration-guide/3.2-connection-setup/3.2.1-usb-integration">https://magtek.gitbook.io/magtek-pilot-gitbooks/hardware/index/dynafamily-programmers-manual/3.0-integration-guide/3.2-connection-setup/3.2.1-usb-integration</a></td></tr></tbody></table>
-{% endcolumn %}
+### <mark style="color:$primary;">Product Directory</mark>
 
-{% column %}
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><p>"I want to..."</p><p>Build my first transaction </p></td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td><td><a href="https://magtek.gitbook.io/magtek-pilot-gitbooks/hardware/index/dynafamily-programmers-manual/4.8-transaction-tutorials/4.8.1-your-first-transaction-complete-walkthrough">https://magtek.gitbook.io/magtek-pilot-gitbooks/hardware/index/dynafamily-programmers-manual/4.8-transaction-tutorials/4.8.1-your-first-transaction-complete-walkthrough</a></td></tr></tbody></table>
-{% endcolumn %}
-{% endcolumns %}
+<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><a href="https://magtek.gitbook.io/magtek-pilot-gitbooks/card-readers/magnetic-stripe-readers/idynamo-5-gen-iii"><mark style="color:$primary;"><strong>iDynamo 5 Gen III ></strong></mark></a></td></tr><tr><td><a href="https://magtek.gitbook.io/magtek-pilot-gitbooks/card-readers/oem-insertion-readers/odynamo"><mark style="color:$primary;"><strong>oDynamo ></strong></mark></a></td></tr></tbody></table>
 
-### Status Pages and MagTek Apps
+### <mark style="color:$primary;">MagTek Hardware</mark>
 
-{% columns %}
-{% column %}
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>QwikCards Status</td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td><td><a href="https://qwickcards.statuspage.io/">https://qwickcards.statuspage.io/</a></td></tr></tbody></table>
-{% endcolumn %}
-
-{% column %}
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Magensa Status</td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td><td><a href="https://magensa.statuspage.io/">https://magensa.statuspage.io/</a></td></tr></tbody></table>
-{% endcolumn %}
-
-{% column %}
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Download MagTek Apps</td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td><td><a href="https://www.magtek.com/services/software-applications/list">https://www.magtek.com/services/software-applications/list</a></td></tr></tbody></table>
-{% endcolumn %}
-{% endcolumns %}
-
-### Product Directory
-
-{% columns %}
-{% column %}
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Card Readers &#x26; OEM Components</td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td></tr></tbody></table>
-{% endcolumn %}
-
-{% column %}
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Card Personalization Devices</td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td></tr></tbody></table>
-{% endcolumn %}
-
-{% column %}
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>DynaFamily Programmer's manual</td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td></tr></tbody></table>
-{% endcolumn %}
-
-{% column %}
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Dynaflex Manuals</td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td></tr></tbody></table>
-{% endcolumn %}
-{% endcolumns %}
-
-### Quick Links & Updates
-
-{% columns %}
-{% column %}
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>"Getting Started" Quick Start guides</td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td></tr></tbody></table>
-{% endcolumn %}
-
-{% column %}
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>"What's New" Release notes. compliance guides, site updates</td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td></tr></tbody></table>
-
-
-{% endcolumn %}
-
-{% column %}
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>"Popular Articles"</td><td><a href=".gitbook/assets/button.jpg">button.jpg</a></td></tr></tbody></table>
-{% endcolumn %}
-{% endcolumns %}
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><a href="https://rms.magensa.net/Test/demo/index.html"><mark style="color:$primary;"><strong>Web HID and Other Demos ></strong></mark> </a></td><td>These demos show how to communicate with Secure Card Reader Authenticator (SCRA) devices using Web HID with Chromium Desktop Browsers</td></tr><tr><td><a href="https://rmsv2.developer.magtek.com/"><mark style="color:$primary;"><strong>MagTek Reader Management System (RMS) ></strong></mark></a></td><td>MagTek Reader Management System is a suite of apps and source code that automates the ability to configure and update MagTek readers.</td></tr></tbody></table>
 
 ### For more help
 
