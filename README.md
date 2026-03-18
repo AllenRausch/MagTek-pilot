@@ -1,5 +1,7 @@
 ---
-cover: .gitbook/assets/645d63a6db75c56cadf2adda8f6333c5.png
+cover:
+  light: .gitbook/assets/645d63a6db75c56cadf2adda8f6333c5.png
+  dark: .gitbook/assets/4d77d9668e7bdc54b2ee2546cc21077c (3).png
 coverY: 0
 ---
 
