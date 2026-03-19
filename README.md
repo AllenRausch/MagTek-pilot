@@ -1,6 +1,6 @@
 ---
 cover:
-  light: .gitbook/assets/Home-Page-Hero_v2.png
+  light: .gitbook/assets/Blue_header.png
   dark: .gitbook/assets/Home-Page-Hero_v2.png
 coverY: 0
 layout:
@@ -24,13 +24,7 @@ layout:
     visible: true
 ---
 
-# MagTek Support Home
-
-This will eventually be the landing page for the Support home page and it will mirror the one on the official Web site.
-
-<h2 align="center"><mark style="color:$primary;">Welcome to the MagTek Support site!</mark> </h2>
-
-<h4 align="center">How can we help? </h4>
+# Untitled
 
 ### <mark style="color:$primary;">Status Pages and MagTek Apps</mark>
 
