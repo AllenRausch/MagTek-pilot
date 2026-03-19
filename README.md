@@ -1,7 +1,7 @@
 ---
 cover:
   light: .gitbook/assets/Blue_header.png
-  dark: .gitbook/assets/Home-Page-Hero_v2.png
+  dark: .gitbook/assets/Blue_header.png
 coverY: 0
 layout:
   width: default
@@ -24,7 +24,7 @@ layout:
     visible: true
 ---
 
-# Untitled
+# Support Home
 
 ### <mark style="color:$primary;">Status Pages and MagTek Apps</mark>
 
