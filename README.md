@@ -38,11 +38,11 @@ This page gives you quick access to the most essential resources for MagTek prod
 
 ### Product Categories
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><a href="https://magtek.gitbook.io/magtek-support/hardware"><mark style="color:$primary;"><strong>Hardware ></strong></mark></a></td><td></td></tr><tr><td><a href="https://magtek.gitbook.io/magtek-support/magensa-services"><mark style="color:$primary;"><strong>Magensa Services ></strong></mark></a></td><td></td></tr><tr><td><a href="https://magtek.gitbook.io/magtek-support/qwantum-services"><strong>Qwantum Service ></strong></a></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><a href="https://magtek.gitbook.io/magtek-support/hardware"><mark style="color:$primary;"><strong>Hardware ></strong></mark></a></td><td></td></tr><tr><td><a href="https://magtek.gitbook.io/magtek-support/magensa-services"><mark style="color:$primary;"><strong>Magensa Services ></strong></mark></a></td><td></td></tr><tr><td><a href="https://magtek.gitbook.io/magtek-support/qwantum-services"><mark style="color:$tint;"><strong>Qwantum Service ></strong></mark></a></td><td></td></tr></tbody></table>
 
 ### Key Products
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>DynaFlex II PED ></td></tr><tr><td>DynaFlex II PED</td></tr><tr><td>oDynamo</td></tr><tr><td>IDynamo 5 Gen III</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><a href="https://magtek.gitbook.io/magtek-support/hardware/card-readers/mms-dyna-devices/emv-common-kernel/dynaflex-ii-ped"><mark style="color:$tint;"><strong>DynaFlex II PED ></strong></mark></a></td></tr><tr><td><a href="https://magtek.gitbook.io/magtek-support/hardware/card-readers/mms-dyna-devices/emv-common-kernel/dynaflex-ii-go"><mark style="color:$tint;"><strong>DynaFlex II Go ></strong></mark></a></td></tr><tr><td><a href="https://magtek.gitbook.io/magtek-support/hardware/oem-readers-and-components/oem-readers/odynamo"><mark style="color:$tint;"><strong>oDynamo ></strong></mark></a></td></tr><tr><td><a href="https://magtek.gitbook.io/magtek-support/hardware/card-readers/magnetic-stripe-readers/idynamo-5-gen-iii"><mark style="color:$tint;"><strong>IDynamo 5 Gen III ></strong></mark></a></td></tr></tbody></table>
 
 ### For more help
 
