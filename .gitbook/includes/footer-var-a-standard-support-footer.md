@@ -15,9 +15,7 @@ For additional support, please contact MagTek Support:
 
 **Online Resources:**
 
-* 🌐 **Support Portal:** [https://www.magtek.com/support](https://www.magtek.com/support)
-* 📚 **Knowledge Base:** [https://support.magtek.com](https://support.magtek.com/)
-* 💬 **Developer Forum:** [https://forum.magtek.com](https://forum.magtek.com/)
+* 🌐 **Support Portal:** developer.magtek.com
 
 **Documentation Feedback:**
 
