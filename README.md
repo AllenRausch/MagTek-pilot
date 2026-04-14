@@ -34,7 +34,7 @@ This page gives you quick access to the most essential resources for MagTek prod
 
 ### Coding Resources
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><a href="https://rms.magensa.net/Test/demo/index.html"><mark style="color:$primary;"><strong>Web HID and Other Demos ></strong></mark> </a></td><td><em>These demos show how to communicate with Secure Card Reader Authenticator (SCRA) devices using Web HID with Chromium Desktop Browsers</em></td></tr><tr><td><a href="https://rmsv2.developer.magtek.com/"><mark style="color:$primary;"><strong>MagTek Reader Management System (RMS) ></strong></mark></a></td><td><em>MagTek Reader Management System is a suite of apps and source code that automates the ability to configure and update MagTek readers</em></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><a href="https://magtek.gitbook.io/magtek-support/hardware/hid-demos"><mark style="color:$primary;"><strong>Web HID and Other Demos (Hardware) ></strong></mark> </a></td><td><em>These demos show how to communicate with Secure Card Reader Authenticator (SCRA) devices using Web HID with Chromium Desktop Browsers</em></td></tr><tr><td><a href="https://rmsv2.developer.magtek.com/"><mark style="color:$primary;"><strong>MagTek Reader Management System (RMS) ></strong></mark></a></td><td><em>MagTek Reader Management System is a suite of apps and source code that automates the ability to configure and update MagTek readers</em></td></tr><tr><td>Web HID Demos (Magensa Services) ></td><td></td></tr></tbody></table>
 
 ### Product Categories
 
@@ -47,3 +47,4 @@ This page gives you quick access to the most essential resources for MagTek prod
 ### For more help
 
 {% include ".gitbook/includes/footer-var-a-standard-support-footer.md" %}
+
