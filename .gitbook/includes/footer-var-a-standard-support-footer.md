@@ -10,8 +10,8 @@ For additional support, please contact MagTek Support:
 **Technical Support:**
 
 * 📧 **Email:** support@magtek.com
-* 📞 **Phone:** 1-800-788-6835 (US) | +1-562-546-6616 (International)
-* 🕐 **Hours:** Monday-Friday, 6:00 AM - 5:00 PM PST
+* 📞 **Phone:** 1-562-546-6800 (US)
+* 🕐 **Hours:** Monday-Friday, 5:30 AM - 5:00 PM PST
 
 **Online Resources:**
 
