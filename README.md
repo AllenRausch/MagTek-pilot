@@ -30,7 +30,7 @@ This page gives you quick access to the most essential resources for MagTek prod
 
 ### Status Pages and MagTek Apps
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:$primary;"><strong>Magensa Status ></strong></mark></td><td><em>Go to this page to view real‑time service health, incident history, and maintenance updates for Magensa services</em></td><td><a href="https://magensa.statuspage.io/">https://magensa.statuspage.io/</a></td></tr><tr><td><a href="https://qwickcards.statuspage.io/"><mark style="color:$primary;"><strong>QwickCards Status ></strong></mark></a></td><td><em>Go to this page to view real‑time service health, incident history, and maintenance updates for QwickCards</em></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:$primary;"><strong>Magensa Status ></strong></mark></td><td><em>Go to this page to view real‑time service health, incident history, and maintenance updates for Magensa.</em></td><td><a href="https://magensa.statuspage.io/">https://magensa.statuspage.io/</a></td></tr><tr><td><a href="https://qwickcards.statuspage.io/"><mark style="color:$primary;"><strong>QwickCards Status ></strong></mark></a></td><td><em>Go to this page to view real‑time service health, incident history, and maintenance updates for QwickCards.</em></td><td></td></tr></tbody></table>
 
 ### Coding Resources
 
