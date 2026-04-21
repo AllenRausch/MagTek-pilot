@@ -1,7 +1,5 @@
 ---
-cover:
-  light: .gitbook/assets/Blue_header.png
-  dark: .gitbook/assets/Blue_header.png
+cover: .gitbook/assets/Generic-Header-image.jpg
 coverY: 0
 layout:
   width: default
