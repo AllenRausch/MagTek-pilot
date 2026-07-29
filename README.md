@@ -6,6 +6,7 @@ layout:
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -20,29 +21,43 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Support Home
 
-This page gives you quick access to the most essential resources for MagTek products and services. Use the links below to check live system status, explore product-specific documentation, try out developer demos, or manage your products. For deeper technical content, use the top menu to find the service and products you need or contact our support team directly.
+## MagTek Support&#x20;
+
+This page gives you quick access to the most essential resources for MagTek products and services. Use the links below to check live system status, explore product-specific or general documentation, try out developer demos, or manage your products. For deeper technical content, use the top menu to find the service and products you need or contact our support team directly.
 
 ### Status Pages and MagTek Apps
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="http://magensa.statuspage.io/"><mark style="color:$primary;"><strong>Magensa Services Status ></strong></mark></a></td><td><em>Go to this page to view real‑time service health, incident history, and maintenance updates for Magensa.</em></td><td><a href="https://magensa.statuspage.io/">https://magensa.statuspage.io/</a></td></tr><tr><td><a href="https://qwickcards.statuspage.io/"><mark style="color:$primary;"><strong>QwickCards Status ></strong></mark></a></td><td><em>Go to this page to view real‑time service health, incident history, and maintenance updates for QwickCards.</em></td><td></td></tr></tbody></table>
+| **Section**                                                                                   | **Information**                                                                                             |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [<mark style="color:red;">**Magensa Services Status**</mark>](https://magensa.statuspage.io/) | Go to this page to view real‑time service health, incident history, and maintenance updates for Magensa.    |
+| [<mark style="color:red;">**QwickCards Status**</mark>](https://qwickcards.statuspage.io/)    | Go to this page to view real‑time service health, incident history, and maintenance updates for QwickCards. |
 
-### Coding Resources
+### Key Documentation
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><a href="https://magtek.gitbook.io/magtek-support/hardware/hid-demos"><mark style="color:$primary;"><strong>Web-based Demos (Hardware) ></strong></mark> </a></td><td><em>These demos show how to communicate with MagTek readers using JavaScript and Chromium Desktop Browsers.</em></td></tr><tr><td><a href="https://rmsv2.developer.magtek.com/"><mark style="color:$primary;"><strong>MagTek Reader Management System (RMS) ></strong></mark></a></td><td><em>MagTek Reader Management System is a suite of apps and source code that automates the ability to configure and update MagTek readers.</em></td></tr><tr><td><a href="https://magtek.gitbook.io/magtek-support/magensa-services/unigate/unigate-hid-demo"><mark style="color:$tint;"><strong>Web-based Demos (Magensa Services) ></strong></mark></a></td><td><em>This page provides access to an interactive browser-based demonstration for MPPG/Unigate with and without MagTek readers.</em></td></tr><tr><td><a href="https://developer.magtek.com/magensa-services"><mark style="color:$tint;"><strong>API Documentation and Code (Magensa Services) ></strong></mark></a></td><td><em>This page explores detailed documentation and code examples including API documentation, code samples in multiple languages, developer guides covering EMV acceptance and Level 3 certification, and links to portals for merchants and resellers to manage accounts, view transactions, and generate reports.</em></td></tr></tbody></table>
+| **Section**                                                                                                                        | **Information**                                                                                                                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [<mark style="color:red;">**SCRA Dyna Family Programmer's Manual**</mark>](https://developer.magtek.com/api-and-command-reference) | <p>This is the general API &#x26; Command Reference for (SCRA) devices for the DynaFamily. Click for a list of references for a specific Dyna product:<br>- DynaFlex II Go<br>- DynaFlex II SCR<br>- DynaFlex II PED<br>- DynaProx<br>- DynaFlex Pro/SCR (Gen I)</p> |
 
-### Product Categories
+### Site Categories
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><a href="https://magtek.gitbook.io/magtek-support/hardware"><mark style="color:$primary;"><strong>Hardware ></strong></mark></a></td><td>Go to this page to find manuals, software, videos, and answers for all MagTek hardware products, including Card Readers, PIN pads, and Check Scanners.</td></tr><tr><td><a href="https://magtek.gitbook.io/magtek-support/magensa-services"><mark style="color:$primary;"><strong>Magensa Services ></strong></mark></a></td><td>Go to this page to view documentation and guides for Magensa cloud services, including the Magensa Payment Protection Gateway (MPPG)/Unigate, Reader Management Services, and TokenExchange Connect.</td></tr><tr><td><a href="https://magtek.gitbook.io/magtek-support/qwantum-services"><mark style="color:$tint;"><strong>Qwantum Service ></strong></mark></a></td><td>Go to this page to access resources for MagTek's Qwantum Services, including Secure Cards, Tokens, Multi-Factor Authentication, Private Messaging, and the Qwantum ASIC.</td></tr></tbody></table>
+| **Section**                                                                                                                                                | **Information**                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [<mark style="color:red;">**Get Started**</mark>](https://app.gitbook.com/o/M1bZIjbUULXeTfuFxR7G/s/B4YqocVO0D2SjcjEOemw/)                                  | Pick your device, connection basics, your first transaction, and web-based demos.                                                                                |
+| [<mark style="color:red;">**Guides**</mark>](https://app.gitbook.com/o/M1bZIjbUULXeTfuFxR7G/s/7FKdWBtmUwzosqnujid1/)                                       | Task and concept how-tos: EMV acceptance, L3 certification, security & key management, NFC/MIFARE, firmware & file operations, and PAN vs DPAN / network tokens. |
+| [<mark style="color:$danger;">**API & Command Reference**</mark> ](https://app.gitbook.com/o/M1bZIjbUULXeTfuFxR7G/s/EX5FnWhqBiMGA8wVt4Kn/)                 | The complete MMS command set for the DynaFamily readers, documented once: message format, data types, commands, notifications, configuration, and appendices.    |
+| [<mark style="color:$danger;">**SDKs & Tools**</mark> ](https://app.gitbook.com/o/M1bZIjbUULXeTfuFxR7G/s/wjbnqo0srzj14AwQMHQM/)                            | The Universal SDK, MagneFlex Browser Web API, tools & utilities, demos, and Reader Management System (RMS).                                                      |
+| [<mark style="color:red;">**Products**</mark>](https://app.gitbook.com/s/qN8qT2GJ2O0P1blQMIVj/)                                                            | a directory of thin device hubs, each linking into the shared guides, references, and individual product support..                                               |
+| [<mark style="color:red;">**Services**</mark>](https://app.gitbook.com/o/M1bZIjbUULXeTfuFxR7G/s/T525JoRd5ZFOd0Mq9DrF/)                                     | Magensa and Qwantum and Reader Management Systems services.                                                                                                      |
+| [<mark style="color:red;">**Downloads, Compliance, & Marketing Materials**</mark>](https://app.gitbook.com/o/M1bZIjbUULXeTfuFxR7G/s/8D8HmfmyvOUbCM5xaHF8/) | Firmware, device manuals, PCI security policies, and marketing materials.                                                                                        |
+| [<mark style="color:red;">**Resources**</mark>](https://app.gitbook.com/o/M1bZIjbUULXeTfuFxR7G/s/VhuEAZJXmu9ioSqtXAIh/)                                    | Changelogs, LLM resources, and support.                                                                                                                          |
 
-### Key Products
+### For More Help
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><a href="https://magtek.gitbook.io/magtek-support/hardware/card-readers/mms-dyna-devices/emv-common-kernel/dynaflex-ii-ped"><mark style="color:$tint;"><strong>DynaFlex II PED ></strong></mark></a></td><td>Go to this page to find brochures, programmer’s manuals, compliance documents, and software tools for the DynaFlex II PED (PIN Entry Device).</td></tr><tr><td><a href="https://magtek.gitbook.io/magtek-support/hardware/card-readers/mms-dyna-devices/emv-common-kernel/dynaflex-ii-go"><mark style="color:$tint;"><strong>DynaFlex II Go ></strong></mark></a></td><td>Go to this page to access documentation, software, and FAQ videos for the portable DynaFlex II Go secure card reader authenticator.</td></tr><tr><td><a href="https://magtek.gitbook.io/magtek-support/hardware/card-readers/mms-dyna-devices/emv-common-kernel/dynaprox"><mark style="color:$tint;"><strong>DynaProx ></strong></mark></a></td><td>Go to this page to view manuals, software, and developer resources for the DynaProx Secure Card Reader.</td></tr><tr><td><a href="https://magtek.gitbook.io/magtek-support/hardware/card-readers/magnetic-stripe-readers/idynamo-5-gen-iii"><mark style="color:$tint;"><strong>IDynamo 5 Gen III ></strong></mark></a></td><td>Go to this page to find brochures, compliance documents, and programmer’s manuals for the iDynamo 5 Gen III mobile card reader.</td></tr><tr><td><a href="https://magtek.gitbook.io/magtek-support/hardware/oem-readers-and-components/oem-readers/odynamo"><mark style="color:$tint;"><strong>oDynamo ></strong></mark></a></td><td>Go to this page to view manuals, software, and developer resources for the oDynamo hybrid insertion secure card reader.</td></tr></tbody></table>
 
-### For more help
-
-{% include ".gitbook/includes/footer-var-a-standard-support-footer.md" %}
 
