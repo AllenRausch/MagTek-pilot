@@ -59,5 +59,7 @@ This page gives you quick access to the most essential resources for MagTek prod
 
 ### For More Help
 
+{% include ".gitbook/includes/footer-var-a-standard-support-footer.md" %}
+
 
 
