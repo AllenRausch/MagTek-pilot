@@ -52,8 +52,6 @@ This page gives you quick access to the most essential resources for MagTek prod
 
 ### Site Categories
 
-### Site Categories
-
 | **Section**                                                                                                                                                | **Information**                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [<mark style="color:red;">**Get Started**</mark>](https://app.gitbook.com/o/M1bZIjbUULXeTfuFxR7G/s/B4YqocVO0D2SjcjEOemw/)                                  | Pick your device, connection basics, your first transaction, and web-based demos.                                                                                |
