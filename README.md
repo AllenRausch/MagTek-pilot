@@ -44,6 +44,14 @@ This page gives you quick access to the most essential resources for MagTek prod
 | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [<mark style="color:red;">**SCRA Dyna Family Programmer's Manual**</mark>](https://developer.magtek.com/api-and-command-reference) | <p>This is the general API &#x26; Command Reference for (SCRA) devices for the DynaFamily. Click for a list of references for a specific Dyna product:<br>- DynaFlex II Go<br>- DynaFlex II SCR<br>- DynaFlex II PED<br>- DynaProx<br>- DynaFlex Pro/SCR (Gen I)</p> |
 
+### Magensa Documentation & APIs
+
+| **Section**                                                                                                                                               | **Information**                                                                                                                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [<mark style="color:red;">**Magensa Documentation & Code**</mark>](https://developer.magtek.com/api-and-command-reference/magensa-documentation-and-code) | Magensa is MagTek's cloud-based payment protection gateway that secures sensitive data and processes transactions across in-person, online, and mobile channels using advanced tokenization, dynamic encryption, and authentication services. |
+
+### Site Categories
+
 ### Site Categories
 
 | **Section**                                                                                                                                                | **Information**                                                                                                                                                  |
