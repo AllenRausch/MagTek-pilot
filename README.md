@@ -38,7 +38,7 @@ This page gives you quick access to the most essential resources for MagTek prod
 | [<mark style="color:red;">**Magensa Services Status**</mark>](https://magensa.statuspage.io/) | Go to this page to view real‑time service health, incident history, and maintenance updates for Magensa.    |
 | [<mark style="color:red;">**QwickCards Status**</mark>](https://qwickcards.statuspage.io/)    | Go to this page to view real‑time service health, incident history, and maintenance updates for QwickCards. |
 
-### Key Documentation
+### DynaFamily Documentation
 
 | **Section**                                                                                                                        | **Information**                                                                                                                                                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
