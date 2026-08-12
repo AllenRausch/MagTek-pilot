@@ -1,12 +1,6 @@
 ---
-cover: .gitbook/assets/Generic-Header-image.jpg
-coverY: 0
 layout:
   width: default
-  cover:
-    visible: true
-    size: hero
-    mask: none
   title:
     visible: true
   description:
